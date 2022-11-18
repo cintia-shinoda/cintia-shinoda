@@ -1,7 +1,8 @@
 <h2 align="center">Hi there, I'm Cintia</h2>
 
-- 🌱 I’m currently learning Python, Blockchain, AI, PowerBI, English and Japanese
+- 🌱 I’m currently learning Python, Blockchain, AI, Power BI, English and Japanese
 <br>
+
 - 📫 To reach me, send an email to cintia.shinoda@me.com
 
 <!--
@@ -16,6 +17,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
