@@ -1,15 +1,14 @@
 <h2 align="center">Hi there, I'm Cintia</h2>
 
-- 🌱 I’m currently learning Blockchain, AWS, Python, Azure, English and Japanese
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/cintia-shinoda)
-
+- 🌱 I’m currently learning Python, Blockchain, AI, PowerBI, English and Japanese
+<br>
 - 📫 To reach me, send an email to cintia.shinoda@me.com
 
 <!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/cintia-shinoda)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cintiashinoda" height="40" width="40" /></a>
-<a href="https://kaggle.com/shinoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shinoda" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/shinoda_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shinoda_c" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cintiashinoda" height="33" width="33" /></a>
+<a href="https://kaggle.com/shinoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shinoda" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/shinoda_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shinoda_c" height="30" width="30" /></a>
 </p>
 
 ---
