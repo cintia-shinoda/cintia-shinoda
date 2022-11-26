@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm Cintia</h2>
 
 - 🌱 I’m currently learning/studying:
-    - Python, 
-    - Blockchain, 
-    - AI, 
+    - Python
+    - Blockchain
+    - AI
     - English
     - Japanese
 <br>
