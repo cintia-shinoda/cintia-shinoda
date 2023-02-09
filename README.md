@@ -53,6 +53,7 @@
 
 <details>
 <summary>Courses List</summary>
+
 | Course | School/Institution | Workload | Skills | Level |
 |--------|--------------------|----------|--------|-------|
 | Introdução à Lógica de Programação | Impacta | 40h |  | Elementary |
@@ -89,6 +90,7 @@
 
 <details>
 <summary>On-Going Courses List</summary>
+
 | Course | School/Institution | Workload | Skills | Level |
 |--------|--------------------|----------|--------|-------|
 | Data Science Bachelor's Degree | Univesp |  | Math | Advanced |
@@ -97,6 +99,7 @@
 | English - Level 10 | CCAA |  | English | Advanced |
 | Japanese - Level E | Kumon |  | Japanese | Elementary |
 | História do Japão Contemporâneo |  |  | Japan's History | Elementary |
+
 </details>
 
 ---
