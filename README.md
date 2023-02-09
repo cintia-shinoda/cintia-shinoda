@@ -1,7 +1,7 @@
 <h3 align="center">Hi there, I'm Cintia</h3>
 <br>
 
-🌱 I’m currently learning/studying:
+- 🌱 I’m currently learning/studying:
     - Python
     - Blockchain
     - AI
