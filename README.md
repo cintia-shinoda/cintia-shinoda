@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Cintia</h3>
+<h2 align="center">Hi there, I'm Cintia</h2>
 <br>
 
 - 🌱 I’m currently learning/studying:
@@ -10,7 +10,7 @@
 <br>
 
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
@@ -23,7 +23,7 @@
 -->
 
 ----------
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
 <a href="https://www.oracle.com/database/sqldeveloper/" target="blank"><img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL-SQL"/></a>
@@ -79,7 +79,7 @@
 
 
 ----
-<h4 align="left">Courses:</h4>
+<h3 align="left">Courses:</h3>
 
 <details>
 <summary>Courses List</summary>
@@ -99,21 +99,21 @@
 | Introduction to HTML5 | University of Michigan |  |  | Elementary |
 | Bitcoin e Blockchain | FIAP | 6h |  | Elementary |
 | Modelagem de Dados | Fundação Bradesco | 35h |  | Elementary |
-| Administrando e Armazenando Dados | Fundação Bradesco | 31h |  | Elementary |
+| Administrando e Armazenando Dados | Fundação Bradesco | 31h | SQL Server | Elementary |
 | Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h | SQL Server | Elementary |
 | Java e Orientação a Objetos | Caelum | 40h | Java | Elementary |
 | Java para Desenvolvimento Web | Caelum | 40h | Java | Elementary |
 | Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h | Java |  |
 | Estatística I: Entenda seus dados com R | Alura | 8h | R |  |
 | Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |  |  |
-| Introduction to R | DataCamp |  | R |  |
-| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  |  |  |
-| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  |  |  |
+| Introduction to R | DataCamp |  | R | Elementary |
+| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  | Swift |  |
+| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  | Swift |  |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h | R |  |
 | Data Science: Primeiros Passos | Alura | 6h |  |  |
 | Python e Orientação a Objetos | Caelum | 32h | Python |  |
-| Big Data | Prandiano | 48h |  |  |
-| Blockchain | Prandiano |  |  |  |
+| Big Data | Prandiano | 48h | Math |  |
+| Blockchain | Prandiano | 52h | Math |  |
 
 </details>
 
@@ -128,7 +128,7 @@
 | Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary |
 | English - Level 10 | CCAA |  | English | Advanced |
 | Japanese - Level E | Kumon |  | Japanese | Elementary |
-| História do Japão Contemporâneo | UFF |  | Japan's History | Elementary |
+| História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary |
 
 <br>
 
@@ -137,7 +137,7 @@
 </details>
 
 ---
-<h4 align="left">GitHub Stats:</h4>
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="cintia-shinoda" /> </p>
 
