@@ -47,6 +47,57 @@
 
 <!-- <img src="" alt="" width="50" height="50"/> -->
 
+---
+
+<h3 align="left">Courses:</h3>
+
+<details>
+<summary>Courses List</summary>
+| Course | School/Institution | Workload | Skills | Level |
+|--------|--------------------|----------|--------|-------|
+| Introdução à Lógica de Programação | Impacta | 40h |  | Elementary |
+| Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |  | Elementary |
+| Introdução à Física Quântica | b_arco | 12h |  | Elementary |
+| Making Sense of Data | Google |  |  | Elementary |
+| The Data Scientist's Toolbox | Johns Hopkins University |  | R | Elementary |
+| Big Data and Social Physics | MIT |  |  | Elementary |
+| Adobe Illustrator | Cadritech | 32h | Adobe Illustrator | Elementary |
+| Envisioning Big Data | FIAP | 20h |  | Elementary |
+| WordPress for Beginners | Udemy |  | WordPress | Elementary |
+| Internet History, Technology, and Security | University of Michigan |  |  | Elementary |
+| Introduction to HTML5 | University of Michigan |  |  | Elementary |
+| Bitcoin e Blockchain | FIAP | 6h |  | Elementary |
+| Modelagem de Dados | Fundação Bradesco | 35h |  | Elementary |
+| Administrando e Armazenando Dados | Fundação Bradesco | 31h |  | Elementary |
+| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h | SQL Server | Elementary |
+| Java e Orientação a Objetos | Caelum | 40h | Java | Elementary |
+| Java para Desenvolvimento Web | Caelum | 40h | Java | Elementary |
+| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h | Java |  |
+| Estatística I: Entenda seus dados com R | Alura | 8h | R |  |
+| Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |  |  |
+| Introduction to R | DataCamp |  | R |  |
+| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  |  |  |
+| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  |  |  |
+| Big Data Science - Machine Learning e Data Mining | FIAP | 32h | R |  |
+| Data Science: Primeiros Passos | Alura | 6h |  |  |
+| Python e Orientação a Objetos | Caelum | 32h | Python |  |
+| Big Data | Prandiano | 48h |  |  |
+| Blockchain | Prandiano |  |  |  |
+
+</details>
+
+
+<details>
+<summary>On-Going Courses List</summary>
+| Course | School/Institution | Workload | Skills | Level |
+|--------|--------------------|----------|--------|-------|
+| Data Science Bachelor's Degree | Univesp |  | Math | Advanced |
+| Full Stack Web Development Nanodegree | Udacity | Python | Advanced |
+| Introdução à Computação para Bioinformática | UFMG |  | Python |  |
+| English - Level 10 | CCAA |  | English | Advanced |
+| Japanese - Level E | Kumon |  | Japanese | Elementary |
+| História do Japão Contemporâneo |  |  | Japan's History | Elementary |
+</details>
 
 ---
 
