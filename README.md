@@ -123,7 +123,7 @@
 
 | Course | School/Institution | Workload | Skills | Level | Progress |
 |--------|--------------------|----------|--------|-------|---|
-| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![](https://geps.dev/progress/12.5) |
+| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![12%](https://progress-bar.dev/12) |
 | Full Stack Web Development Nanodegree | Udacity | 200h | Python, SQL | Advanced |
 | Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary |
 | English - Level 10 | CCAA | 42.5h | English | Advanced |
