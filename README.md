@@ -121,13 +121,14 @@
 <details>
 <summary>On-Going Courses List</summary>
 
-| Course | School/Institution | Workload | Skills | Level |
-|--------|--------------------|----------|--------|-------|
-| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced |
+| Course | School/Institution | Workload | Skills | Level | Progress |
+|--------|--------------------|----------|--------|-------|---|
+| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![](https://geps.dev/progress/12.5) |
 | Full Stack Web Development Nanodegree | Udacity | 200h | Python, SQL | Advanced |
 | Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary |
-| English - Level 10 | CCAA |  | English | Advanced |
-| Japanese - Level E | Kumon |  | Japanese | Elementary |
+| English - Level 10 | CCAA | 42.5h | English | Advanced |
+| Japanese - Level E | Kumon | 20h | Japanese | Elementary |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary |
 | História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary |
 
 <br>
