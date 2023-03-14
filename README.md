@@ -126,9 +126,9 @@
 | Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![12%](https://progress-bar.dev/12) |
 | Full Stack Web Development Nanodegree | Udacity | 200h | Python, SQL | Advanced |
 | Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary |
-| English - Level 10 | CCAA | 42.5h | English | Advanced |
-| Japanese - Level E | Kumon | 20h | Japanese | Elementary |
-| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary |
+| English - Level 10 | CCAA | 42.5h | English | Advanced | ![23%](https://progress-bar.dev/23)
+| Japanese - Level E | Kumon | 20h | Japanese | Elementary | ![20%](https://progress-bar.dev/20) |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary | ![14%](https://progress-bar.dev/14) |
 | História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary |
 
 <br>
