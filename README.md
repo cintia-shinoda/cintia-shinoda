@@ -122,7 +122,7 @@
 <summary>On-Going Courses List</summary>
 
 | Course | School/Institution | Workload | Skills | Progress |
-|--------|--------------------|----------|--------|-------|---|
+|--------|--------------------|----------|--------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | ![18%](https://progress-bar.dev/18) |
 | Data Analytics Postgraduate Degree | FIAP | 360h | Python, Statistics | ![0%](https://progress-bar.dev/0) |
 | Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | ![0%](https://progress-bar.dev/0) |
