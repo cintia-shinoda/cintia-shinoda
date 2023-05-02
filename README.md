@@ -84,36 +84,36 @@
 <details>
 <summary>Courses List</summary>
 
-| Course | School/Institution | Workload | Skills | Level |
-|--------|--------------------|----------|--------|-------|
-| Introdução à Lógica de Programação | Impacta | 40h |  | Elementary |
-| Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |  | Elementary |
-| Introdução à Física Quântica | b_arco | 12h |  | Elementary |
-| Making Sense of Data | Google |  |  | Elementary |
-| The Data Scientist's Toolbox | Johns Hopkins University |  | R | Elementary |
-| Big Data and Social Physics | MIT |  |  | Elementary |
-| Adobe Illustrator | Cadritech | 32h | Adobe Illustrator | Elementary |
-| Envisioning Big Data | FIAP | 20h |  | Elementary |
-| WordPress for Beginners | Udemy |  | WordPress | Elementary |
-| Internet History, Technology, and Security | University of Michigan |  |  | Elementary |
-| Introduction to HTML5 | University of Michigan |  |  | Elementary |
-| Bitcoin e Blockchain | FIAP | 6h |  | Elementary |
-| Modelagem de Dados | Fundação Bradesco | 35h |  | Elementary |
-| Administrando e Armazenando Dados | Fundação Bradesco | 31h | SQL Server | Elementary |
-| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h | SQL Server | Elementary |
-| Java e Orientação a Objetos | Caelum | 40h | Java | Elementary |
-| Java para Desenvolvimento Web | Caelum | 40h | Java | Elementary |
-| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h | Java |  |
-| Estatística I: Entenda seus dados com R | Alura | 8h | R |  |
-| Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |  |  |
-| Introduction to R | DataCamp |  | R | Elementary |
-| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  | Swift |  |
-| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  | Swift |  |
-| Big Data Science - Machine Learning e Data Mining | FIAP | 32h | R |  |
-| Data Science: Primeiros Passos | Alura | 6h |  |  |
-| Python e Orientação a Objetos | Caelum | 32h | Python |  |
-| Big Data | Prandiano | 48h | Math |  |
-| Blockchain | Prandiano | 52h | Math |  |
+| Course | School/Institution | Workload | Skills |
+|--------|--------------------|----------|--------|
+| Introdução à Lógica de Programação | Impacta | 40h |  |
+| Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |  |
+| Introdução à Física Quântica | b_arco | 12h |  |
+| Making Sense of Data | Google |  |  |
+| The Data Scientist's Toolbox | Johns Hopkins University |  | R |
+| Big Data and Social Physics | MIT |  |  |
+| Adobe Illustrator | Cadritech | 32h | Adobe Illustrator |
+| Envisioning Big Data | FIAP | 20h |  |
+| WordPress for Beginners | Udemy |  | WordPress |
+| Internet History, Technology, and Security | University of Michigan |  |  |
+| Introduction to HTML5 | University of Michigan |  |  |
+| Bitcoin e Blockchain | FIAP | 6h |  |
+| Modelagem de Dados | Fundação Bradesco | 35h |  |
+| Administrando e Armazenando Dados | Fundação Bradesco | 31h | SQL Server |
+| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h | SQL Server |
+| Java e Orientação a Objetos | Caelum | 40h | Java |
+| Java para Desenvolvimento Web | Caelum | 40h | Java |
+| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h | Java |
+| Estatística I: Entenda seus dados com R | Alura | 8h | R |
+| Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |  |
+| Introduction to R | DataCamp |  | R |
+| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  | Swift |
+| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  | Swift |
+| Big Data Science - Machine Learning e Data Mining | FIAP | 32h | R |
+| Data Science: Primeiros Passos | Alura | 6h |  |
+| Python e Orientação a Objetos | Caelum | 32h | Python |
+| Big Data | Prandiano | 96h | Math |
+| Blockchain | Prandiano | 48h | Math, Blockchain, Cryptography |
 
 </details>
 
@@ -121,16 +121,16 @@
 <details>
 <summary>On-Going Courses List</summary>
 
-| Course | School/Institution | Workload | Skills | Level | Progress |
+| Course | School/Institution | Workload | Skills | Progress |
 |--------|--------------------|----------|--------|-------|---|
-| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![18%](https://progress-bar.dev/18) |
-| Data Analytics Postgraduate Degree | FIAP | 360h | Python, Statistics | Advanced | ![0%](https://progress-bar.dev/0) |
-| Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | Elementary | ![0%](https://progress-bar.dev/0) |
-| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary | ![50%](https://progress-bar.dev/50) |
-| English - Level 10 | CCAA | 42.5h | English | Advanced | ![39%](https://progress-bar.dev/39)|
-| Japanese - Level E | Kumon | 20h | Japanese | Elementary | ![50%](https://progress-bar.dev/50) |
-| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary | ![50%](https://progress-bar.dev/50) |
-| História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary | ![0%](https://progress-bar.dev/0) |
+| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | ![18%](https://progress-bar.dev/18) |
+| Data Analytics Postgraduate Degree | FIAP | 360h | Python, Statistics | ![0%](https://progress-bar.dev/0) |
+| Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | ![0%](https://progress-bar.dev/0) |
+| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![50%](https://progress-bar.dev/50) |
+| English - Level 10 | CCAA | 42.5h | English | ![39%](https://progress-bar.dev/39)|
+| Japanese - Level E | Kumon | 20h | Japanese | ![50%](https://progress-bar.dev/50) |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | ![50%](https://progress-bar.dev/50) |
+| História do Japão Contemporâneo | UFF | 30h | Japan's History | ![0%](https://progress-bar.dev/0) |
 
 <br>
 
