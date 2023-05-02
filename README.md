@@ -124,12 +124,13 @@
 | Course | School/Institution | Workload | Skills | Level | Progress |
 |--------|--------------------|----------|--------|-------|---|
 | Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | Advanced | ![18%](https://progress-bar.dev/18) |
+| Data Analytics Postgraduate Degree | FIAP | 360h | Python, Statistics | Advanced | ![0%](https://progress-bar.dev/0) |
+| Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | Elementary | ![0%](https://progress-bar.dev/0) |
 | Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | Elementary | ![50%](https://progress-bar.dev/50) |
-| Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | Elementary |  |
 | English - Level 10 | CCAA | 42.5h | English | Advanced | ![39%](https://progress-bar.dev/39)|
-| Japanese - Level E | Kumon | 20h | Japanese | Elementary | ![45%](https://progress-bar.dev/45) |
-| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary | ![35%](https://progress-bar.dev/35) |
-| História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary |
+| Japanese - Level E | Kumon | 20h | Japanese | Elementary | ![50%](https://progress-bar.dev/50) |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | Elementary | ![50%](https://progress-bar.dev/50) |
+| História do Japão Contemporâneo | UFF | 30h | Japan's History | Elementary | ![0%](https://progress-bar.dev/0) |
 
 <br>
 
