@@ -12,7 +12,6 @@
 ---
 
 <h3 align="left">On-Going Courses List:</h3>
-<summary></summary>
 
 | Course | School/Institution | Workload | Skills | Progress |
 |--------|--------------------|----------|--------|----------|
