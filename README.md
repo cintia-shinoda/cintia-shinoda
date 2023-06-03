@@ -1,14 +1,6 @@
 <h2 align="center">Hi there, I'm Cintia</h2>
 <br>
 
-- 🌱 I’m currently learning/studying:
-    - Python
-    - Blockchain
-    - AI
-    - English
-    - Japanese
-<br>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +9,19 @@
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <br>
 
+---
+
+<h3 align="left">On-Going Courses List:</h3>
+<summary></summary>
+
+| Course | School/Institution | Workload | Skills | Progress |
+|--------|--------------------|----------|--------|----------|
+| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | ![18%](https://progress-bar.dev/18) |
+| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![50%](https://progress-bar.dev/50) |
+| English - Level 10 | CCAA | 42.5h | English | ![39%](https://progress-bar.dev/39)|
+| Japanese - Level E | Kumon | 20h | Japanese | ![50%](https://progress-bar.dev/50) |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | ![50%](https://progress-bar.dev/50) |
+| História do Japão Contemporâneo | UFF | 30h | Japan's History | ![0%](https://progress-bar.dev/0) |
 
 <!--
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
@@ -117,26 +122,8 @@
 
 </details>
 
-
-<details>
-<summary>On-Going Courses List</summary>
-
-| Course | School/Institution | Workload | Skills | Progress |
-|--------|--------------------|----------|--------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | ![18%](https://progress-bar.dev/18) |
-| Data Analytics Postgraduate Degree | FIAP | 360h | Python, Statistics | ![0%](https://progress-bar.dev/0) |
-| Trilha DTAT | FIAP / Alura |  | Python, R, SQL, Data Science | ![0%](https://progress-bar.dev/0) |
-| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![50%](https://progress-bar.dev/50) |
-| English - Level 10 | CCAA | 42.5h | English | ![39%](https://progress-bar.dev/39)|
-| Japanese - Level E | Kumon | 20h | Japanese | ![50%](https://progress-bar.dev/50) |
-| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | ![50%](https://progress-bar.dev/50) |
-| História do Japão Contemporâneo | UFF | 30h | Japan's History | ![0%](https://progress-bar.dev/0) |
-
 <br>
 
-
-
-</details>
 
 ---
 <h3 align="left">GitHub Stats:</h3>
@@ -160,7 +147,19 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning/studying:
+    - Python
+    - Blockchain
+    - AI
+    - English
+    - Japanese
+
+
 -->
+
+
+
 
 <!--
 <p align="left"> 
