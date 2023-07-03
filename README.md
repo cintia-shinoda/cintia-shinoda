@@ -16,11 +16,11 @@
 | Course | School/Institution | Workload | Skills | Progress |
 |--------|--------------------|----------|--------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus | ![25%](https://progress-bar.dev/25) |
-| Inteligência Artificial | Unicamp-Huawei |  | Artificial Intelligence, Python | ![0%](https://progress-bar.dev/0) |
-| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![50%](https://progress-bar.dev/50) |
-| English - Level 10 | CCAA | 42.5h | English | ![91%](https://progress-bar.dev/91)|
-| Japanese - Level E | Kumon | 20h | Japanese | ![80%](https://progress-bar.dev/80) |
-| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | ![90%](https://progress-bar.dev/90) |
+| Inteligência Artificial | Unicamp-Huawei |  | Artificial Intelligence, Python | ![30%](https://progress-bar.dev/30) |
+| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![70%](https://progress-bar.dev/70) |
+| English - Level 10 | CCAA | 42.5h | English | ![99%](https://progress-bar.dev/99)|
+| Japanese - Level E | Kumon | 20h | Japanese | ![85%](https://progress-bar.dev/85) |
+| Kanji - 1 | Aliança Cultural Brasil-Japão | 50h | Japanese | ![97%](https://progress-bar.dev/97) |
 | História do Japão Contemporâneo | UFF | 30h | Japan's History | ![0%](https://progress-bar.dev/0) |
 | A Cultura Japonesa no Mundo Contemporâneo | UFF |  | Japan's Contemporary Culture | ![0%](https://progress-bar.dev/0) |
 
