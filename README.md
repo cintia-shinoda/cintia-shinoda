@@ -16,10 +16,10 @@
 | Course | School/Institution | Workload | Skills | Progress |
 |--------|--------------------|----------|--------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus, Python, Algorithms | ![25%](https://progress-bar.dev/25) |
-| Inteligência Artificial | Unicamp-Huawei |  | Artificial Intelligence, Python | ![34%](https://progress-bar.dev/34) |
+|  | DataCamp | h |  | ![0%](https://progress-bar.dev/0) |
+|  | Codecademy | h |  | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | Blockchain | ![0%](https://progress-bar.dev/0) | 
-| Introdução à Computação para Bioinformática | UFMG | 40h | Bioinformatics, Python, Algorithms | ![70%](https://progress-bar.dev/70) |
-| Japanese - Level E | Kumon | 21h | Japanese | ![95%](https://progress-bar.dev/95) |
+| Japanese - Level F | Kumon | 21h | Japanese | ![0%](https://progress-bar.dev/0) |
 | História do Japão Contemporâneo | UFF | 33h | Japan's History | ![0%](https://progress-bar.dev/0) |
 | A Cultura Japonesa no Mundo Contemporâneo | UFF |  | Japan's Contemporary Culture | ![0%](https://progress-bar.dev/0) |
 
