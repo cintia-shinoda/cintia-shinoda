@@ -16,6 +16,7 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | ![25%](https://progress-bar.dev/25) |
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |  | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
 | Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![0%](https://progress-bar.dev/0) |
