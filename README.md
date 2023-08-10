@@ -21,8 +21,6 @@
 | Kanji 2 | Aliança Cultural Brasil-Japão |  50h | Japanese, Kanji | ![0%](https://progress-bar.dev/0) |
 | Japanese - Level F | Kumon | 21h | Japanese | ![0%](https://progress-bar.dev/0) |
 | English - Master 2 | CCAA | 47.5h | English | ![0%](https://progress-bar.dev/0) |
-| História do Japão Contemporâneo | UFF | 33h | Japan's History | ![0%](https://progress-bar.dev/0) |
-| A Cultura Japonesa no Mundo Contemporâneo | UFF |  | Japan's Contemporary Culture | ![0%](https://progress-bar.dev/0) |
 
 <!--
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
