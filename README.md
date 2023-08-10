@@ -13,14 +13,14 @@
 
 <h3 align="left">On-Going Courses List:</h3>
 
-| Course | School/Institution | Workload | Skills | Progress |
-|--------|--------------------|----------|--------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | Math, Statistics, Calculus, Python, Algorithms | ![25%](https://progress-bar.dev/25) |
-| Data Scientist Professional with Python | DataCamp | 116h | Data Science, Python | ![0%](https://progress-bar.dev/0) |
-| Blockchain Engineering Training | DSA | 254h | Blockchain | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | Japanese, Kanji | ![0%](https://progress-bar.dev/0) |
-| Japanese - Level F | Kumon | 21h | Japanese | ![0%](https://progress-bar.dev/0) |
-| English - Master 2 | CCAA | 47.5h | English | ![0%](https://progress-bar.dev/0) |
+| Course | School/Institution | Workload | Progress |
+|--------|--------------------|----------|----------|
+| Data Science Bachelor's Degree | Univesp | 3200h | ![25%](https://progress-bar.dev/25) |
+| Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
+| Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![0%](https://progress-bar.dev/0) |
+| Japanese - Level F | Kumon | 21h | ![1%](https://progress-bar.dev/1) |
+| English - Master 2 | CCAA | 47.5h | ![0%](https://progress-bar.dev/0) |
 
 <!--
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
