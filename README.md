@@ -1,4 +1,12 @@
-<h2 align="center">Hi there, I'm Cintia</h2>
+<h2 align="center">Hi there, I'm Cintia 👋</h2>
+
+<!-- I have a degree in System Analysis and Development and an MBA in Artificial Intelligence.
+I have experience with Python, SQL, R, and Excel. -->
+
+🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science.
+👩🏻‍💻 Have experience in Python, SQL, R, and Excel.
+💻 Interested in Data Science and Artificial Intelligence.
+
 <br>
 
 
@@ -7,6 +15,7 @@
 <a href="https://www.linkedin.com/in/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
+<a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
 <br>
 
 ---
@@ -19,9 +28,9 @@
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |  | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![0%](https://progress-bar.dev/0) |
-| Japanese - Level F | Kumon | 21h | ![1%](https://progress-bar.dev/1) |
-| English - Master 2 | CCAA | 47.5h | ![0%](https://progress-bar.dev/0) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![24%](https://progress-bar.dev/24) |
+| Japanese - Level F | Kumon | 21h | ![30%](https://progress-bar.dev/30) |
+| English - Master 2 | CCAA | 47.5h | ![26%](https://progress-bar.dev/26) |
 
 <!--
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
@@ -76,7 +85,7 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 <a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio"/></a>
 
-<p>
+<>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <br>
@@ -130,11 +139,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="cintia-shinoda" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true) 
 
-![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="cintia-shinoda" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="cintia-shinoda" /></p>
+<!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true) -->
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="cintia-shinoda" /></p> -->
+
 
 
 
