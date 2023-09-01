@@ -48,8 +48,13 @@ I have experience with Python, SQL, R, and Excel. -->
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
-<a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit"/></a>
 <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"alt="plotly"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="streamlit"/></a>
+
+<p>
+<a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"/></a>
 
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
