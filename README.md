@@ -4,7 +4,9 @@
 I have experience with Python, SQL, R, and Excel. -->
 
 🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science.
+
 👩🏻‍💻 Have experience in Python, SQL, R, and Excel.
+
 💻 Interested in Data Science and Artificial Intelligence.
 
 <br>
