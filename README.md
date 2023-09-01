@@ -5,7 +5,7 @@ I have experience with Python, SQL, R, and Excel. -->
 
 🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science.
 
-👩🏻‍💻 Have experience in Python, SQL, R, and Excel.
+👩🏻‍💻 Have experience and knowledge in Python, SQL, R, and Excel.
 
 💻 Interested in Data Science and Artificial Intelligence.
 
@@ -87,7 +87,6 @@ I have experience with Python, SQL, R, and Excel. -->
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 <a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio"/></a>
 
-<>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <br>
