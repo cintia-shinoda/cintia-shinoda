@@ -1,15 +1,13 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-<!-- I have a degree in System Analysis and Development and an MBA in Artificial Intelligence.
-I have experience with Python, SQL, R, and Excel. -->
+🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science
 
-🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science.
+👩🏻‍💻 Have experience in Python, SQL, R, and Excel
 
-👩🏻‍💻 Have experience and knowledge in Python, SQL, R, and Excel.
-
-💻 Interested in Data Science and Artificial Intelligence.
+💻 Data Science and Artificial Intelligence
 
 <br>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -22,23 +20,30 @@ I have experience with Python, SQL, R, and Excel. -->
 
 ---
 
+
+
 <h3 align="left">On-Going Courses List:</h3>
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | ![25%](https://progress-bar.dev/25) |
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |  | ![0%](https://progress-bar.dev/0) |
+| Data Science Bachelor's Degree | Univesp | 3200h | ![31%](https://progress-bar.dev/31) |
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![24%](https://progress-bar.dev/24) |
-| Japanese - Level F | Kumon | 21h | ![30%](https://progress-bar.dev/30) |
-| English - Master 2 | CCAA | 47.5h | ![26%](https://progress-bar.dev/26) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![39%](https://progress-bar.dev/39) |
+| Japanese - Level F | Kumon | 21h | ![33%](https://progress-bar.dev/33) |
+| English - Master 2 | CCAA | 47.5h | ![38%](https://progress-bar.dev/38) |
+
+<br>
+
+---
+
+
 
 <!--
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
 -->
 
-----------
 <h3 align="left">Languages and Tools:</h3>
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
@@ -96,51 +101,55 @@ I have experience with Python, SQL, R, and Excel. -->
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <br>
 
-
-
 ----
+
+
+
 <h3 align="left">Courses:</h3>
 
 <details>
 <summary>Courses List</summary>
 
-| Course | School/Institution | Workload | Skills |
-|--------|--------------------|----------|--------|
-| Introdução à Lógica de Programação | Impacta | 40h |  |
-| Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |  |
-| Introdução à Física Quântica | b_arco | 12h |  |
-| Making Sense of Data | Google |  |  |
-| The Data Scientist's Toolbox | Johns Hopkins University |  | R |
-| Big Data and Social Physics | MIT |  |  |
-| Adobe Illustrator | Cadritech | 32h | Adobe Illustrator |
-| Envisioning Big Data | FIAP | 20h |  |
-| WordPress for Beginners | Udemy |  | WordPress |
-| Internet History, Technology, and Security | University of Michigan |  |  |
-| Introduction to HTML5 | University of Michigan |  |  |
-| Bitcoin e Blockchain | FIAP | 6h |  |
-| Modelagem de Dados | Fundação Bradesco | 35h |  |
-| Administrando e Armazenando Dados | Fundação Bradesco | 31h | SQL Server |
-| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h | SQL Server |
-| Java e Orientação a Objetos | Caelum | 40h | Java |
-| Java para Desenvolvimento Web | Caelum | 40h | Java |
-| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h | Java |
-| Estatística I: Entenda seus dados com R | Alura | 8h | R |
-| Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |  |
-| Introduction to R | DataCamp |  | R |
-| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura |  | Swift |
-| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura |  | Swift |
-| Big Data Science - Machine Learning e Data Mining | FIAP | 32h | R |
-| Data Science: Primeiros Passos | Alura | 6h |  |
-| Python e Orientação a Objetos | Caelum | 32h | Python |
-| Big Data | Prandiano | 96h | Math |
-| Blockchain | Prandiano | 48h | Math, Blockchain, Cryptography |
+| Course | School/Institution | Workload |
+|--------|--------------------|----------|
+| Introdução à Lógica de Programação | Impacta | 40h |
+| Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |
+| Introdução à Física Quântica | b_arco | 12h |
+| Making Sense of Data | Google |  |
+| The Data Scientist's Toolbox | Johns Hopkins University | 18h |
+| Big Data and Social Physics | MIT |  |
+| Adobe Illustrator | Cadritech | 32h |
+| Envisioning Big Data | FIAP | 20h |
+| WordPress for Beginners | Udemy |  |
+| Internet History, Technology, and Security | University of Michigan | 15h |
+| Introduction to HTML5 | University of Michigan | 13h |
+| Bitcoin e Blockchain | FIAP | 6h |
+| Modelagem de Dados | Fundação Bradesco | 35h |
+| Administrando e Armazenando Dados | Fundação Bradesco | 31h |
+| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h |
+| Java e Orientação a Objetos | Caelum | 40h |
+| Java para Desenvolvimento Web | Caelum | 40h |
+| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h |
+| Estatística I: Entenda seus dados com R | Alura | 8h |
+| Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |
+| Introduction to R | DataCamp | 4h |
+| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura | 8h |
+| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura | 10h |
+| Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
+| Data Science: Primeiros Passos | Alura | 6h |
+| Python e Orientação a Objetos | Caelum | 32h |
+| Big Data | Prandiano | 96h |
+| Blockchain | Prandiano | 48h |
+| Introdução à Computação para Bioinformática | UFMG | 40h |
 
 </details>
 
 <br>
 
-
 ---
+
+
+
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="cintia-shinoda" /> </p>
@@ -151,7 +160,6 @@ I have experience with Python, SQL, R, and Excel. -->
 
 <!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true) -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="cintia-shinoda" /></p> -->
 
 
 
@@ -173,23 +181,20 @@ I have experience with Python, SQL, R, and Excel. -->
     - English
     - Japanese
 
-
 -->
 
 
 
 
-<!--
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/oracle/oracle-original.svg" alt="Oracle Logo" width="50" height="50"/>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
+<!-- <p align="left"> 
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-original.svg" alt="Git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/></p>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
 
-<img src="" alt="" width="50" height="50"/>
--->
+</p>
+
+<img src="" alt="" width="50" height="50"/> -->
