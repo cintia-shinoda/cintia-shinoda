@@ -27,12 +27,13 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | ![31%](https://progress-bar.dev/31) |
+| Dashboards em Shiny I | Curso-R | 18h | ![0%](https://progress-bar.dev/0) |
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![39%](https://progress-bar.dev/39) |
-| Japanese - Level F | Kumon | 21h | ![33%](https://progress-bar.dev/33) |
-| English - Master 2 | CCAA | 47.5h | ![38%](https://progress-bar.dev/38) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![57%](https://progress-bar.dev/57) |
+| Japanese - Level F | Kumon | 21h | ![47%](https://progress-bar.dev/47) |
+| English - Master 2 | CCAA | 47.5h | ![51%](https://progress-bar.dev/51) |
 
 <br>
 
