@@ -27,13 +27,13 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | Univesp | 3200h | ![31%](https://progress-bar.dev/31) |
-| Dashboards em Shiny I | Curso-R | 18h | ![0%](https://progress-bar.dev/0) |
+| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![57%](https://progress-bar.dev/57) |
-| Japanese - Level F | Kumon | 21h | ![47%](https://progress-bar.dev/47) |
-| English - Master 2 | CCAA | 47.5h | ![51%](https://progress-bar.dev/51) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![67%](https://progress-bar.dev/67) |
+| Japanese - Level F | Kumon | 21h | ![52%](https://progress-bar.dev/52) |
+| English - Master 2 | CCAA | 47.5h | ![59%](https://progress-bar.dev/59) |
 
 <br>
 
@@ -92,14 +92,18 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/></a>
 
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
+<a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a>
+<a href="https://jupyter.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/></a>
+<a href="https://colab.google/" target="blank"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 <a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio"/></a>
+<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a>
 
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
+<a href="https://www.apple.com/br/macos/" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
+<a href="https://ubuntu.com" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
+<a href="https://www.microsoft.com/en-us/windows?r=1" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
+
+<a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <br>
 
 ----
@@ -142,6 +146,7 @@
 | Big Data | Prandiano | 96h |
 | Blockchain | Prandiano | 48h |
 | Introdução à Computação para Bioinformática | UFMG | 40h |
+| [Introduction to the Tidyverse](https://www.datacamp.com/completed/statement-of-accomplishment/course/563f5155bef375fca368c156669e311603fb1bdc) | DataCamp | 4h |
 
 </details>
 
@@ -153,7 +158,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="cintia-shinoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="stats-cintia-shinoda" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true) 
 
