@@ -31,9 +31,9 @@
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![67%](https://progress-bar.dev/67) |
-| Japanese - Level F | Kumon | 21h | ![52%](https://progress-bar.dev/52) |
-| English - Master 2 | CCAA | 47.5h | ![59%](https://progress-bar.dev/59) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![74%](https://progress-bar.dev/74) |
+| Japanese - Level F | Kumon | 21h | ![61%](https://progress-bar.dev/61) |
+| English - Master 2 | CCAA | 47.5h | ![67%](https://progress-bar.dev/67) |
 
 <br>
 
