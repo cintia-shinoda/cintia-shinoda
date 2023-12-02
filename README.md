@@ -26,16 +26,25 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | ![31%](https://progress-bar.dev/31) |
-| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
+| Data Science Bachelor's Degree | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
-| Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) | ![0%](https://progress-bar.dev/0) |
+| Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
+| Full Stack Web Developer Nanodegree | Udacity |  | ![0%](https://progress-bar.dev/0) |
+| Full-Stack Engineer | Codecademy | 162 lessons | ![0%](https://progress-bar.dev/0) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![85%](https://progress-bar.dev/85) |
-| Japanese - Level F | Kumon | 21h | ![67%](https://progress-bar.dev/67) |
-| English - Master 2 | CCAA | 47.5h | ![78%](https://progress-bar.dev/78) |
+| Kanji 2 | Aliança Cultural Brasil-Japão |  50h | ![94%](https://progress-bar.dev/94) |
+| Japanese - Level F | Kumon | 21h | ![76%](https://progress-bar.dev/76) |
+| English - Master 2 | CCAA | 47.5h | ![89%](https://progress-bar.dev/89) |
 
+
+<!-- 
+| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) | 
+-->
+
+<!-- 
+| Google Data Analytics Professional Certificate | Coursera |  | ![0%](https://progress-bar.dev/0) |
+ -->
 <br>
 
 ---
