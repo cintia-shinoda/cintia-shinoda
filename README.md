@@ -18,9 +18,11 @@
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="flickr"/></a>
+
 <br>
 
----
+-----
 
 
 
@@ -83,7 +85,7 @@
 
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white" alt="Google Data Studio"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" alt="Looker"/></a>
 
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/></a>
