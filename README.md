@@ -1,6 +1,8 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Systems Analyst with an MBA in Artificial Intelligence and currently pursuing a Bachelor's Degree in Data Science
+🌱 Currently pursuing a Bachelor's Degree in Data Science
+
+🎓 BTech in Systems Analysis | MBA in Artificial Intelligence and 
 
 👩🏻‍💻 Have knowledge in Python, SQL, R, and Excel
 
@@ -27,12 +29,9 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
+| Full Stack Web Developer Nanodegree | Udacity |  | ![0%](https://progress-bar.dev/0) |
 | AI Programming with Python | Bertelsmann Scholarship | 50h | ![0%](https://progress-bar.dev/0) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
-| Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
-| Full Stack Web Developer Nanodegree | Udacity |  | ![0%](https://progress-bar.dev/0) |
-| Full-Stack Engineer | Codecademy | 162 lessons | ![0%](https://progress-bar.dev/0) |
 | Japanese - Level F | Kumon | 21h | ![86%](https://progress-bar.dev/86) |
 
 
@@ -41,8 +40,16 @@
 -->
 
 <!--  
+| Full-Stack Engineer | Codecademy | 162 lessons | ![0%](https://progress-bar.dev/0) |
+| Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
+
+| Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
+
+
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
+
 | Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
+
 | Google Data Analytics Professional Certificate | Coursera |  | ![0%](https://progress-bar.dev/0) |
  -->
 <br>
