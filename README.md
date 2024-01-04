@@ -2,7 +2,7 @@
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science
 
-🎓 BTech in Systems Analysis | MBA in Artificial Intelligence and 
+🎓 BTech in Systems Analysis and Development | MBA in Artificial Intelligence and Machine Learning
 
 👩🏻‍💻 Have knowledge in Python, SQL, R, and Excel
 
