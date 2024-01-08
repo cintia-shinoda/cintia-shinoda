@@ -31,9 +31,12 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
-| Full Stack Web Developer Nanodegree | Udacity |  | ![0%](https://progress-bar.dev/0) |
-| AI Programming with Python | Bertelsmann Scholarship | 50h | ![0%](https://progress-bar.dev/0) |
+| Full Stack Web Developer Nanodegree | Udacity | ~100h | ![5%](https://progress-bar.dev/5) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
+| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
+| AI Programming with Python | Bertelsmann Scholarship | ~50h | ![0%](https://progress-bar.dev/0) |
+| Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
+| Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
 | Japanese - Level F | Kumon | 21h | ![86%](https://progress-bar.dev/86) |
 
 
