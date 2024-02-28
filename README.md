@@ -4,7 +4,7 @@
 
 🎓 BTech in Systems Analysis and Development | MBA in Artificial Intelligence and Machine Learning
 
-👩🏻‍💻 Have knowledge in Python, SQL, R, and Excel
+👩🏻‍💻 Have knowledge and experience in Python, SQL, R, and Excel
 
 💻 Data Science and Artificial Intelligence
 
@@ -33,15 +33,17 @@
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
 | Full Stack Web Developer Nanodegree | Udacity | ~100h | ![5%](https://progress-bar.dev/5) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
-| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
-| AI Programming with Python | Bertelsmann Scholarship | ~50h | ![0%](https://progress-bar.dev/0) |
 | Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-| Japanese - Level F | Kumon | 21h | ![86%](https://progress-bar.dev/86) |
+| Japanese | Kumon | 315h | <ul><li>Level G: ![24%](https://progress-bar.dev/24)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 50h | <ul><li>Level 3: ![9%](https://progress-bar.dev/9)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>
 
 
 <!-- 
-| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) | 
+| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
+| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
+
+| AI Programming with Python | Bertelsmann Scholarship | ~50h | ![0%](https://progress-bar.dev/0) |
 -->
 
 <!--  
