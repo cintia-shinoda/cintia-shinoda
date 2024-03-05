@@ -35,8 +35,8 @@
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-| Japanese | Kumon | 315h | <ul><li>Level G: ![24%](https://progress-bar.dev/24)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 50h | <ul><li>Level 3: ![9%](https://progress-bar.dev/9)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>
+| Japanese | Kumon | 315h | <ul><li>Level G: ![29%](https://progress-bar.dev/29)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 50h | <ul><li>Level 3: ![15%](https://progress-bar.dev/15)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>
 
 
 <!-- 
