@@ -36,7 +36,8 @@
 | Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
 | Japanese | Kumon | 315h | <ul><li>Level G: ![33%](https://progress-bar.dev/33)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![20%](https://progress-bar.dev/20)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![20%](https://progress-bar.dev/20)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Estatística I | Prandiano | 72h | ![0%](https://progress-bar.dev/0) |
 
 
 <!-- 
