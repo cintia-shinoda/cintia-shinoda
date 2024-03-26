@@ -136,13 +136,11 @@
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
 
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></a>
-
-<p>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
 <br>
 
 ----
