@@ -4,7 +4,7 @@
 
 🎓 BTech in Systems Analysis and Development | MBA in Artificial Intelligence and Machine Learning
 
-👩🏻‍💻 Have knowledge and experience in Python, SQL, R, and Excel
+👩🏻‍💻 Knowledge and experience in Python, SQL, R, and Excel
 
 💻 Data Science and Artificial Intelligence
 
@@ -15,10 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
-<a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
-<a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
-<a href="https://www.flickr.com/photos/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="flickr"/></a>
+<a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+<!-- <a href="https://www.flickr.com/photos/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="flickr"/></a> -->
+<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
 
 <br>
 
@@ -30,14 +30,13 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
-| Full Stack Web Developer Nanodegree | Udacity | ~100h | ![5%](https://progress-bar.dev/5) |
+| Data Science Bachelor's Degree | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-| Japanese | Kumon | 315h | <ul><li>Level G: ![33%](https://progress-bar.dev/33)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![20%](https://progress-bar.dev/20)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
-| Estatística I | Prandiano | 72h | ![0%](https://progress-bar.dev/0) |
+| Japanese | Kumon | 315h | <ul><li>Level G: ![48%](https://progress-bar.dev/48)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![42%](https://progress-bar.dev/42)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Estatística I | Prandiano | 72h | ![25%](https://progress-bar.dev/25) |
 
 
 <!-- 
@@ -63,6 +62,17 @@
 <br>
 
 ---
+
+
+
+<!-- <h3 align="left">Certifications:</h3>
+
+| Certification | School/Institution | Workload | Progress |
+|--------|--------------------|----------|----------|
+
+
+
+--- -->
 
 
 
