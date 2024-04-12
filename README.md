@@ -194,6 +194,7 @@
 | Blockchain | Prandiano | 48h |
 | Introdução à Computação para Bioinformática | UFMG | 40h |
 | [Introduction to the Tidyverse](https://www.datacamp.com/completed/statement-of-accomplishment/course/563f5155bef375fca368c156669e311603fb1bdc) | DataCamp | 4h |
+| [SAS for Beginners](https://www.credly.com/badges/945a215c-4bde-47e8-97b3-2718a897d315/public_url) | SAS |  |
 
 </details>
 
