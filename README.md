@@ -30,13 +30,13 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | ![37%](https://progress-bar.dev/37) |
+| Data Science Bachelor's Degree | Univesp | 3200h | ![44%](https://progress-bar.dev/44) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-| Japanese | Kumon | 315h | <ul><li>Level G: ![48%](https://progress-bar.dev/48)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![42%](https://progress-bar.dev/42)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
-| Estatística I | Prandiano | 72h | ![25%](https://progress-bar.dev/25) |
+| Japanese | Kumon | 315h | <ul><li>Level G: ![52%](https://progress-bar.dev/52)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![50%](https://progress-bar.dev/50)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Estatística I | Prandiano | 72h | ![33%](https://progress-bar.dev/33) |
 
 
 <!-- 
