@@ -30,32 +30,38 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | Univesp | 3200h | ![44%](https://progress-bar.dev/44) |
+| Data Science Bachelor's Degree | UNIVESP | 3200h | ![44%](https://progress-bar.dev/44) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
-| Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
-| Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-| Japanese | Kumon | 315h | <ul><li>Level G: ![52%](https://progress-bar.dev/52)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![50%](https://progress-bar.dev/50)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
+| Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
+| Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
 | Estatística I | Prandiano | 72h | ![33%](https://progress-bar.dev/33) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) | Kumon | 315h | <ul><li>Level G: ![62%](https://progress-bar.dev/62)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| [Kanji](https://github.com/cintia-shinoda/alianca-kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![64%](https://progress-bar.dev/64)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
 
 
 <!-- 
-| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
-| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
 
-| AI Programming with Python | Bertelsmann Scholarship | ~50h | ![0%](https://progress-bar.dev/0) |
+
+| Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
+
+| Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
+
+| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
+
+| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
 -->
 
 <!--  
-| Full-Stack Engineer | Codecademy | 162 lessons | ![0%](https://progress-bar.dev/0) |
-| Blockchain Engineering Training | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-
-| Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
 
 
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 
-| Data Scientist Professional with Python | DataCamp | 116h | ![0%](https://progress-bar.dev/0) |
+
+
+
+
+| Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
 
 | Google Data Analytics Professional Certificate | Coursera |  | ![0%](https://progress-bar.dev/0) |
  -->
@@ -122,14 +128,14 @@
 <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/></a>
 
-<p>
+<!-- <p>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="word"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="access"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white" alt="Google Docs"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black" alt="Google Slides"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black" alt="Google Slides"/></a> -->
 
 <p>
 <a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a>
