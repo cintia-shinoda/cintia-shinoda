@@ -31,22 +31,25 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![44%](https://progress-bar.dev/44) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![0%](https://progress-bar.dev/0) |
+| GitHub Mentorship | Microsoft | 15h | ![38%](https://progress-bar.dev/38) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
 | Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
-| Estatística I | Prandiano | 72h | ![50%](https://progress-bar.dev/50) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) | Kumon | 315h | <ul><li>Level G: ![71%](https://progress-bar.dev/71)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/alianca-kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![70%](https://progress-bar.dev/70)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Estatística I | Prandiano | 72h | ![67%](https://progress-bar.dev/67) |
+| Praxis | Prandiano | 35h | ![2%](https://progress-bar.dev/2) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) | Kumon | 315h | <ul><li>Level G: ![86%](https://progress-bar.dev/86)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
+| [Kanji](https://github.com/cintia-shinoda/alianca-kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![88%](https://progress-bar.dev/88)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
 
 
 
 
 <!--  
 
-| Applied Mathematical Methods | UTFPR |  | ![0%](https://progress-bar.dev/0) |
 
-| Praxis | Prandiano |  | ![0%](https://progress-bar.dev/0) |
+
+
 
 
 
