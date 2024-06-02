@@ -39,8 +39,11 @@
 | PyChain| Prandiano | 30h | ![60%](https://geps.dev/progress/60) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![81%](https://geps.dev/progress/81)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
-| Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
+| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![89%](https://geps.dev/progress/89)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+
+
+
+<!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
 
 
 
