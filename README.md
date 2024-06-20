@@ -1,10 +1,10 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🌱 Currently pursuing a Bachelor's Degree in Data Science
+🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods
 
 🎓 BTech in Systems Analysis and Development | MBA in Artificial Intelligence and Machine Learning
 
-👩🏻‍💻 Knowledge and experience in Python, SQL, R, and Excel
+👩🏻‍💻 Knowledge and experience in Python, SQL, and R
 
 💻 Data Science and Artificial Intelligence
 
@@ -30,46 +30,32 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | UNIVESP | 3200h | ![44%](https://progress-bar.dev/44) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![0%](https://progress-bar.dev/0) |
-| GitHub Mentorship | Microsoft | 15h | ![38%](https://progress-bar.dev/38) |
+| Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://progress-bar.dev/50) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![7%](https://progress-bar.dev/7) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
 | Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
-| Estatística I | Prandiano | 72h | ![67%](https://progress-bar.dev/67) |
-| Praxis | Prandiano | 35h | ![2%](https://progress-bar.dev/2) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) | Kumon | 315h | <ul><li>Level G: ![86%](https://progress-bar.dev/86)</li><li>Overall progress: ![60%](https://progress-bar.dev/60)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/alianca-kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![88%](https://progress-bar.dev/88)</li><li>Overall progress: ![50%](https://progress-bar.dev/50)</li></ul>|
+| Estatística I | Prandiano | 72h | ![75%](https://progress-bar.dev/75) |
+| Praxis | Prandiano | 35h | ![3%](https://progress-bar.dev/3) |
+| Japanese | Kumon | 315h | <ul><li>Level G: ![100%](https://progress-bar.dev/100)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![100%](https://progress-bar.dev/100)</li><li>Overall progress: ![75%](https://progress-bar.dev/75)</li></ul>|
+
+
 
 
 
 
 <!--  
-
-
-
-
-
-
-
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
 
 | Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
- -->
 
 
 
-<!--
 | Google Data Analytics Professional Certificate | Google |  | ![0%](https://progress-bar.dev/0) |
 
-| Formação OpenAI e Python | Alura | 25h | ![0%](https://progress-bar.dev/0) |
-
 | Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
-
-| Dashboards em Shiny I | Curso-R | 18h | ![17%](https://progress-bar.dev/17) |
-
-| Git e GitHub: compartilhando e colaborando em projetos | Alura | 8h | ![17%](https://progress-bar.dev/17) |
 -->
 
 <br>
@@ -111,42 +97,42 @@
 <a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
 <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"alt="Plotly"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
+<a href="https://plotly.com/python/" target="blank"><img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"alt="Plotly"/></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+<a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
 
 
 <!-- R -->
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
+<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
+<a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
 
 <!-- Quantum -->
 <!--
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
+<a href="https://www.ibm.com/quantum/qiskit" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
 
 
 <!-- Data Viz -->
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" alt="Looker"/></a>
+<a href="https://www.microsoft.com/power-platform/products/power-bi" target="blank"><img align="center" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI"/></a>
+<a href="https://lookerstudio.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" alt="Looker"/></a>
 
 
  <!-- Documentation -->
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" alt="UML"/></a>
+<a href="https://daringfireball.net/projects/markdown/" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
+<a href="https://www.latex-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX"/></a>
+<a href="https://www.uml.org/" target="blank"><img align="center" src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" alt="UML"/></a>
 
 
 <!-- Web & Design -->
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator"/></a>
+<a href="https://html.spec.whatwg.org/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+<a href="https://www.w3.org/TR/css3-roadmap/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
 
 
 <!-- Version Control -->
@@ -157,18 +143,7 @@
 
 <!-- Deploy -->
 <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/></a>
-
-
-<!-- Office -->
-<!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="word"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="powerpoint"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="access"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white" alt="Google Docs"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black" alt="Google Slides"/></a> -->
+<a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/></a>
 
 
 <!-- IDEs -->
@@ -177,7 +152,7 @@
 <a href="https://colab.google/" target="blank"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/></a>
 <a href="https://jupyter.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/></a>
 <a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode"/></a>
+<a href="https://developer.apple.com/xcode/" target="blank"><img align="center" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode"/></a>
 <!-- <a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a> -->
 <!-- <a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a> -->
 
@@ -187,14 +162,14 @@
 <a href="https://www.apple.com/br/macos/" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
 <a href="https://ubuntu.com" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
 <a href="https://www.microsoft.com/en-us/windows?r=1" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
-<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Linux Kali"/></a> -->
+<!-- <a href="https://www.kali.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Linux Kali"/></a> -->
 
 
 <!-- Equipment -->
 <p>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
+<a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
+<a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
 
 <br>
 
@@ -251,11 +226,14 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="stats-cintia-shinoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="github-visitors" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="cintia-shinoda" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
+
+
 
 <!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true) 
 
@@ -268,8 +246,6 @@
 
 
 
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -279,22 +255,4 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
-
-
-<!-- 
-<p align="left"> 
-
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a>
-
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> 
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/> </a>
-
-</p>
-
-<img src="" alt="" width="50" height="50"/> 
 -->
