@@ -31,14 +31,14 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://progress-bar.dev/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![12%](https://progress-bar.dev/12) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![17%](https://progress-bar.dev/17) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
 | Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
-| Estatística I | Prandiano | 72h | ![92%](https://progress-bar.dev/92) |
+| Estatística I | Prandiano | 72h | ![100%](https://progress-bar.dev/100) |
 | Praxis | Prandiano | 35h | ![3%](https://progress-bar.dev/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![5%](https://progress-bar.dev/5)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
+| Japanese | Kumon | 315h | <ul><li>Level H: ![14%](https://progress-bar.dev/14)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
 | Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![100%](https://progress-bar.dev/100)</li><li>Overall progress: ![75%](https://progress-bar.dev/75)</li></ul>|
 
 
@@ -230,7 +230,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="github-visitors" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=5)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
 
