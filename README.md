@@ -31,15 +31,15 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://progress-bar.dev/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![17%](https://progress-bar.dev/17) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![21%](https://progress-bar.dev/21) |
 | Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
 | Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
-| Estatística I | Prandiano | 72h | ![100%](https://progress-bar.dev/100) |
+| Estatística 2 | Prandiano | 66h | ![9%](https://progress-bar.dev/9) |
 | Praxis | Prandiano | 35h | ![3%](https://progress-bar.dev/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![14%](https://progress-bar.dev/14)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 3: ![100%](https://progress-bar.dev/100)</li><li>Overall progress: ![75%](https://progress-bar.dev/75)</li></ul>|
+| Japanese | Kumon | 315h | <ul><li>Level H: ![24%](https://progress-bar.dev/24)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![6%](https://progress-bar.dev/6)</li><li>Overall progress: ![75%](https://progress-bar.dev/75)</li></ul>|
 
 
 
@@ -216,6 +216,7 @@
 | [Introduction to the Tidyverse](https://www.datacamp.com/completed/statement-of-accomplishment/course/563f5155bef375fca368c156669e311603fb1bdc) | DataCamp | 4h |
 | [SAS for Beginners](https://www.credly.com/badges/945a215c-4bde-47e8-97b3-2718a897d315/public_url) | SAS |  |
 | Extensão Universitária: Inteligência Artificial | USP | 6h |
+| [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 
 </details>
 
