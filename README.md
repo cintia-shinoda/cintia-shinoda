@@ -165,6 +165,13 @@
 <!-- <a href="https://www.kali.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Linux Kali"/></a> -->
 
 
+<!-- Crypto -->
+<p>
+<a href="bc1qw0803jzllhy5k2z0xuykrn4g64fs5z4044z4xe" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="bitcoin"/></a>
+<a href="qqtykzkls474eequ7pded9p60ttrsj644gwg7wxlcn" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff&style=for-the-badge" alt="bitcoin-cash"/></a>
+<a href="0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a>
+
+
 <!-- Equipment -->
 <p>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
