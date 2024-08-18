@@ -1,8 +1,8 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods
+🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
-🎓 BTech in Systems Analysis and Development | MBA in Artificial Intelligence and Machine Learning
+🎓 Holds a BTech in Systems Analysis and Development and a MBA in Artificial Intelligence and Machine Learning;
 
 👩🏻‍💻 Knowledge and experience in Python, SQL, and R
 
@@ -30,16 +30,16 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://progress-bar.dev/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![21%](https://progress-bar.dev/21) |
-| Data Scientist | DSA | 560h | ![0%](https://progress-bar.dev/0) |
-| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://progress-bar.dev/0) |
-| Blockchain Engineering | DSA | 254h | ![0%](https://progress-bar.dev/0) |
-| Back-End Engineer | Codecademy | 100h | ![0%](https://progress-bar.dev/0) |
-| Estatística 2 | Prandiano | 66h | ![9%](https://progress-bar.dev/9) |
-| Praxis | Prandiano | 35h | ![3%](https://progress-bar.dev/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![24%](https://progress-bar.dev/24)</li><li>Overall progress: ![67%](https://progress-bar.dev/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![6%](https://progress-bar.dev/6)</li><li>Overall progress: ![75%](https://progress-bar.dev/75)</li></ul>|
+| Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![26%](https://geps.dev/progress/26) |
+| Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
+| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) |
+| Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
+| Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
+| Estatística 2 | Prandiano | 66h | ![18%](https://geps.dev/progress/18) |
+| Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
+| Japanese | Kumon | 315h | <ul><li>Level H: ![33%](https://geps.dev/progress/33)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![18%](https://geps.dev/progress/18)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 
 
 
