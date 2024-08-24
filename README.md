@@ -17,6 +17,7 @@
 <a href="https://www.linkedin.com/in/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
+<a href="discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord">
 <!-- <a href="https://www.flickr.com/photos/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="flickr"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
 
@@ -31,15 +32,15 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![26%](https://geps.dev/progress/26) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![31%](https://geps.dev/progress/31) |
 | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
 | Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![18%](https://geps.dev/progress/18) |
+| Estatística 2 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![33%](https://geps.dev/progress/33)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![18%](https://geps.dev/progress/18)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| Japanese | Kumon | 315h | <ul><li>Level H: ![38%](https://geps.dev/progress/38)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![24%](https://geps.dev/progress/24)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 
 
 
