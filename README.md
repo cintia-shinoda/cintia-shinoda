@@ -18,6 +18,7 @@
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord">
+
 <!-- <a href="https://www.flickr.com/photos/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="flickr"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
 
@@ -27,32 +28,27 @@
 
 
 
-<h3 align="left">Currently learning / working on:</h3>
+<h3 align="left">Working on:</h3>
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
 | Applied Mathematical Methods Specialization | UTFPR | 420h | ![31%](https://geps.dev/progress/31) |
-| Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
-| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
+| Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) |
+| Build Python Web Apps with Django | Codecademy | 13h | ![0%](https://geps.dev/progress/0) |
 | Estatística 2 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
 | Japanese | Kumon | 315h | <ul><li>Level H: ![38%](https://geps.dev/progress/38)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![24%](https://geps.dev/progress/24)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 
-
-
-
-
-
 <!--  
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University | 15h | ![0%](https://progress-bar.dev/0) |
+| Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) |
+| Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
+| Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
+| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) |
 
 | Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
-
-
 
 | Google Data Analytics Professional Certificate | Google |  | ![0%](https://progress-bar.dev/0) |
 
