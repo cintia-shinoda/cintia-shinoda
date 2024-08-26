@@ -1,12 +1,12 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
+🎓 Holds a BTech in Systems Analysis and Development and an MBA in Artificial Intelligence and Machine Learning;
+
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
-🎓 Holds a BTech in Systems Analysis and Development and a MBA in Artificial Intelligence and Machine Learning;
+👩🏻‍💻 Skilled in Python, R, and SQL;
 
-👩🏻‍💻 Knowledge and experience in Python, SQL, and R
-
-💻 Data Science and Artificial Intelligence
+💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies and Quantum Computing.
 
 <br>
 
