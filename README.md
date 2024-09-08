@@ -37,8 +37,8 @@
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
 | Estatística 2 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![38%](https://geps.dev/progress/38)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![29%](https://geps.dev/progress/29)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| Japanese | Kumon | 315h | <ul><li>Level H: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![35%](https://geps.dev/progress/35)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
 <!--  
