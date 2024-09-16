@@ -35,11 +35,11 @@
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![86%](https://geps.dev/progress/86) |
 | Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| SAS Studio e SAS Visual Analytics | SAS | 12h | ![67%](https://geps.dev/progress/67) |
+| SAS Studio e SAS Visual Analytics | SAS | 12h | ![83%](https://geps.dev/progress/83) |
 | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) |
 
 
-<!-- | Mercado Financeiro Brasileiro | PUC-Rio | 19h | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Mercado Financeiro Brasileiro | PUC-Rio | 19h | ![11%](https://geps.dev/progress/11) | -->
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
