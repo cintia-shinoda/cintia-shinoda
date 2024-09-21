@@ -33,18 +33,19 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![33%](https://geps.dev/progress/33) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![38%](https://geps.dev/progress/38) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
+| Estatística 2 | Prandiano | 66h | ![45%](https://geps.dev/progress/45) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
 | Japanese | Kumon | 315h | <ul><li>Level H: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![35%](https://geps.dev/progress/35)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![47%](https://geps.dev/progress/47)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
+| Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) |
+
+
 
 <!--  
-
 | Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) |
-| Build Python Web Apps with Django | Codecademy | 13h | ![0%](https://geps.dev/progress/0) |
 
 | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) |
 
@@ -171,10 +172,10 @@
 
 
 <!-- Crypto -->
-<p>
+<!-- <p>
 <a href="bc1qw0803jzllhy5k2z0xuykrn4g64fs5z4044z4xe" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="bitcoin"/></a>
 <a href="qqtykzkls474eequ7pded9p60ttrsj644gwg7wxlcn" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff&style=for-the-badge" alt="bitcoin-cash"/></a>
-<a href="0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a>
+<a href="0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a> -->
 
 
 <!-- Equipment -->
@@ -248,15 +249,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
 
 
+<!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true)  -->
 
-<!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true) 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cintia-shinoda) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cintia-shinoda)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=cintia-shinoda) -->
 
-![](https://github-profile-trophy.vercel.app/?username=cintia-shinoda)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=cintia-shinoda&theme=github-compact)
--->
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=cintia-shinoda&theme=github-compact) -->
 
 
 
