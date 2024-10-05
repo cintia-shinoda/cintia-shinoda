@@ -230,6 +230,7 @@
 | [SAS for Beginners](https://www.credly.com/badges/945a215c-4bde-47e8-97b3-2718a897d315/public_url) | SAS |  |
 | Extensão Universitária: Inteligência Artificial | USP | 6h |
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
+| Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 
 </details>
 
