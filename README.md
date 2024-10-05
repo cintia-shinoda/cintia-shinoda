@@ -33,7 +33,7 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![41%](https://geps.dev/progress/41) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![43%](https://geps.dev/progress/43) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
 | Estatística 2 | Prandiano | 66h | ![64%](https://geps.dev/progress/64) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
