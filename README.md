@@ -35,10 +35,10 @@
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![50%](https://geps.dev/progress/50) |
 | Applied Mathematical Methods Specialization | UTFPR | 420h | ![41%](https://geps.dev/progress/41) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
+| Estatística 2 | Prandiano | 66h | ![64%](https://geps.dev/progress/64) |
 | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![53%](https://geps.dev/progress/53)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| Japanese | Kumon | 315h | <ul><li>Level H: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![56%](https://geps.dev/progress/56)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) |
 
