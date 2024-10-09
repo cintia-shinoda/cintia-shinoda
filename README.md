@@ -36,7 +36,7 @@
 | Applied Mathematical Methods Specialization | UTFPR | 420h | ![43%](https://geps.dev/progress/43) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
 | Estatística 2 | Prandiano | 66h | ![64%](https://geps.dev/progress/64) |
-| Japanese | Kumon | 315h | <ul><li>Level H: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Japanese |  | 315h | <ul><li>Level H: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![56%](https://geps.dev/progress/56)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
