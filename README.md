@@ -45,12 +45,12 @@
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 <!-- | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) | -->
 
-
+<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
 <!--  
 | Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) |
 
-| Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) |
+
 
 | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 
