@@ -33,10 +33,10 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![43%](https://geps.dev/progress/43) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![45%](https://geps.dev/progress/45) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![73%](https://geps.dev/progress/73) |
-| Japanese |  | 315h | <ul><li>Level H: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Estatística 2 | Prandiano | 66h | ![82%](https://geps.dev/progress/82) |
+| Japanese |  | 315h | <ul><li>Level H: ![57%](https://geps.dev/progress/57)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![56%](https://geps.dev/progress/56)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
