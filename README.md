@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds a BTech in Systems Analysis and Development and an MBA in Artificial Intelligence and Machine Learning;
+🎓 Holds a BTech in Software Development and an MBA in Artificial Intelligence and Machine Learning;
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
@@ -33,10 +33,10 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
-| Applied Mathematical Methods Specialization | UTFPR | 420h | ![45%](https://geps.dev/progress/45) |
+| Applied Mathematical Methods Specialization | UTFPR | 420h | ![48%](https://geps.dev/progress/48) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![82%](https://geps.dev/progress/82) |
-| Japanese |  | 315h | <ul><li>Level H: ![57%](https://geps.dev/progress/57)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| Estatística 2 | Prandiano | 66h | ![91%](https://geps.dev/progress/91) |
+| Japanese |  | 315h | <ul><li>Level H: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | Kanji | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![56%](https://geps.dev/progress/56)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
@@ -184,6 +184,7 @@
 <!-- Equipment -->
 <p>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
+<a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
 <a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
 
