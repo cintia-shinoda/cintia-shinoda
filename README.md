@@ -48,6 +48,12 @@
 
 <!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
+
+<!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- |  | edX |  | ![0%](https://geps.dev/progress/0) | -->
+
+
 <!--  
 | Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) |
 
@@ -184,7 +190,6 @@
 
 <!-- Equipment -->
 <p>
-<a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2017-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
 <a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
