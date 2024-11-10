@@ -33,17 +33,17 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![48%](https://geps.dev/progress/48) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![50%](https://geps.dev/progress/50) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 2 | Prandiano | 66h | ![91%](https://geps.dev/progress/91) |
-| [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano |  | ![20%](https://geps.dev/progress/20) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | 30h | ![20%](https://geps.dev/progress/20) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![66%](https://geps.dev/progress/66)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
 
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
+
 <!-- | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) | -->
 
 <!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
@@ -241,6 +241,11 @@
 | Extensão Universitária: Inteligência Artificial | USP | 6h |
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
+
+
+<!-- 
+| Estatística 1 | Prandiano | 72h |
+| Estatística 2 | Prandiano | 66h | -->
 
 </details>
 
