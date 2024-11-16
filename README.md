@@ -35,9 +35,9 @@
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![50%](https://geps.dev/progress/50) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | 30h | ![20%](https://geps.dev/progress/20) |
+| [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | 30h | ![40%](https://geps.dev/progress/40) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![66%](https://geps.dev/progress/66)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
+| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
 
