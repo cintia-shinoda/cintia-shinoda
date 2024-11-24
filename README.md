@@ -33,39 +33,42 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![50%](https://geps.dev/progress/50) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![55%](https://geps.dev/progress/55) |
+| Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
+| Estatística 3 | Prandiano | 66h | ![0%](https://geps.dev/progress/0) |
 | [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | 30h | ![40%](https://geps.dev/progress/40) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
-| Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![76%](https://geps.dev/progress/76)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![77%](https://geps.dev/progress/77)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 
 
 
-<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
+
+<!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
+
+<!-- | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) | -->
 
-<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
+
 
 
 <!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- |  | edX |  | ![0%](https://geps.dev/progress/0) | -->
 
+<!-- |  | Santa Fe Institute |  | ![0%](https://geps.dev/progress/0) | -->
+
 
 <!--  
-| Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) |
+| Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) | -->
 
-
-
-| Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
-
+<!--
 | Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
 
 | Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) |
-
-|  | Santa Fe Institute |  | ![0%](https://geps.dev/progress/0) |
 
 | Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
 
