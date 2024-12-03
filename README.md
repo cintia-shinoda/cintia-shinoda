@@ -4,9 +4,9 @@
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
-👩🏻‍💻 Skilled in Python, R, and SQL;
+<!-- 👩🏻‍💻 Skilled in Python, R, and SQL; -->
 
-💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies and Quantum Computing.
+<!-- 💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies and Quantum Computing. -->
 
 <br>
 
@@ -34,13 +34,17 @@
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![56%](https://geps.dev/progress/56) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![57%](https://geps.dev/progress/57) |
-| Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) |
-| Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Estatística 3 | Prandiano | 66h | ![0%](https://geps.dev/progress/0) |
-| [PyChain](https://github.com/cintia-shinoda/blockchain/tree/main/06-PyChain) | Prandiano | 30h | ![40%](https://geps.dev/progress/40) |
+| PyChain| Prandiano | 30h | ![60%](https://geps.dev/progress/60) |
+| Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![81%](https://geps.dev/progress/81)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>|
 
+
+
+
+<!--  -->
+<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
+<!-- | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) | -->
 
 
 
