@@ -33,12 +33,12 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![62%](https://geps.dev/progress/62) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![64%](https://geps.dev/progress/64) |
 | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 | Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Generative AI Bertelsmann Scholarship |  |  | ![7%](https://geps.dev/progress/7) |
+| Generative AI Bertelsmann Scholarship |  |  | ![13%](https://geps.dev/progress/13) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
 
@@ -123,6 +123,8 @@
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
+<!-- Julia -->
+<!-- Matlab -->
 
 <!-- Quantum -->
 <!--
@@ -243,6 +245,7 @@
 
 
 <!-- 
+| LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h | -->
