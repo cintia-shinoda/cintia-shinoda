@@ -34,16 +34,16 @@
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![64%](https://geps.dev/progress/64) |
-| Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) |
-| Blockchain Engineering | DSA | 254h | ![0%](https://geps.dev/progress/0) |
-| Generative AI Bertelsmann Scholarship |  |  | ![13%](https://geps.dev/progress/13) |
+| Blockchain Engineering | DSA | 254h | ![4%](https://geps.dev/progress/4) |
+| [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![13%](https://geps.dev/progress/13) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
-| Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) |
 
 
 
+<!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
 
+<!-- | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
