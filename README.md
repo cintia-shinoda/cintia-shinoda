@@ -34,8 +34,8 @@
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![64%](https://geps.dev/progress/64) |
-| Blockchain Engineering | DSA | 254h | ![4%](https://geps.dev/progress/4) |
-| [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![13%](https://geps.dev/progress/13) |
+| Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
+| [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![19%](https://geps.dev/progress/19) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
 
@@ -116,6 +116,7 @@
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+<!-- <a href=""><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 
 
 <!-- R -->
@@ -124,12 +125,20 @@
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
 <!-- Julia -->
+<!-- <p>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a> -->
+
 <!-- Matlab -->
 
 <!-- Quantum -->
-<!--
+<!-- 
 <p>
 <a href="https://www.ibm.com/quantum/qiskit" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
+
+
+<!-- Spatial Software / Geo -->
+<!-- <p>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
 
 
 <!-- Data Viz -->
@@ -242,6 +251,7 @@
 | Extensão Universitária: Inteligência Artificial | USP | 6h |
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
+| [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
 
 
 <!-- 
@@ -263,7 +273,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="github-visitors" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
 
