@@ -37,7 +37,7 @@
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![19%](https://geps.dev/progress/19) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![67%](https://geps.dev/progress/67)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![100%](https://geps.dev/progress/100)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 
