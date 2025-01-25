@@ -37,7 +37,7 @@
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![19%](https://geps.dev/progress/19) |
 | Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level H: ![100%](https://geps.dev/progress/100)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![5%](https://geps.dev/progress/5)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 
@@ -125,10 +125,12 @@
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
 <!-- Julia -->
-<!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a> -->
+<p>
+<a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a>
+
 
 <!-- Matlab -->
+
 
 <!-- Quantum -->
 <!-- 
