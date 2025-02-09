@@ -33,11 +33,11 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | Data Science Bachelor's Degree | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![64%](https://geps.dev/progress/64) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![67%](https://geps.dev/progress/67) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![19%](https://geps.dev/progress/19) |
-| Estatística 3 | Prandiano | 66h | ![9%](https://geps.dev/progress/9) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![5%](https://geps.dev/progress/5)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Estatística 3 | Prandiano | 66h | ![18%](https://geps.dev/progress/18) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![14%](https://geps.dev/progress/14)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 
