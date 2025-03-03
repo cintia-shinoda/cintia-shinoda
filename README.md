@@ -252,7 +252,7 @@
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 | [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
 | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) | DataCamp | 4h |
-| [Foundation of Generative AI](www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
+| [Foundation of Generative AI](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
 
 
 
