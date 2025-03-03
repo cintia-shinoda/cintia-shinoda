@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds a BTech in Software Development and an MBA in Artificial Intelligence and Machine Learning;
+🎓 Holds a BTech in Software Development and a *lato sensu* gradaute degree in Artificial Intelligence and Machine Learning;
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
@@ -18,9 +18,7 @@
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord">
-
-
-<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
+<a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
 
 <br>
 
@@ -32,22 +30,22 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| Data Science Bachelor's Degree | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![67%](https://geps.dev/progress/67) |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![74%](https://geps.dev/progress/74) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
-| [Generative AI Bertelsmann Scholarship](https://github.com/cintia-shinoda/ai/tree/main/02-Udacity-GenAI) |  |  | ![19%](https://geps.dev/progress/19) |
-| Estatística 3 | Prandiano | 66h | ![18%](https://geps.dev/progress/18) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![14%](https://geps.dev/progress/14)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+
+| Estatística 3 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![24%](https://geps.dev/progress/24)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
+<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
 <!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
 
 <!-- | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
 
-<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
-
 <!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
+
 <!-- |  | Santa Fe Institute |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
@@ -254,13 +252,21 @@
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 | [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
+| [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) | DataCamp | 4h |
+| [Foundation of Generative AI](www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
+
+
+
+
 
 
 <!-- 
 | LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
-| Estatística 2 | Prandiano | 66h | -->
+| Estatística 2 | Prandiano | 66h | 
+-->
+
 
 </details>
 
