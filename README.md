@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds a BTech in Software Development and a *lato sensu* gradaute degree in Artificial Intelligence and Machine Learning;
+🎓 Holds a BTech in Software Development and a *lato sensu* graduate degree in Artificial Intelligence and Machine Learning;
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
@@ -31,10 +31,10 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![74%](https://geps.dev/progress/74) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![76%](https://geps.dev/progress/76) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | Estatística 3 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![24%](https://geps.dev/progress/24)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![29%](https://geps.dev/progress/29)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
@@ -253,6 +253,7 @@
 | [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
 | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) | DataCamp | 4h |
 | [Foundation of Generative AI](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
+| [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/131273b38761250266a78286e27cd46392ae1758) | DataCamp | 4h |
 
 
 
