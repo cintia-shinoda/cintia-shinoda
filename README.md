@@ -31,10 +31,10 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![76%](https://geps.dev/progress/76) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![79%](https://geps.dev/progress/79) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
-| Estatística 3 | Prandiano | 66h | ![27%](https://geps.dev/progress/27) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![29%](https://geps.dev/progress/29)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![33%](https://geps.dev/progress/33)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
