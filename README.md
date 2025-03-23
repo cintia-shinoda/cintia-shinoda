@@ -31,23 +31,35 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![79%](https://geps.dev/progress/79) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![81%](https://geps.dev/progress/81) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![33%](https://geps.dev/progress/33)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![38%](https://geps.dev/progress/38)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
+
+<!-- | SAS | SAS |  | | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- | $\LaTeX$ | Sociedade Brasileira de Matemática |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
 <!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
 
+<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
+
 <!-- | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
+
+<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
+
+
 
 <!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- |  | Santa Fe Institute |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) | -->
 
@@ -254,6 +266,7 @@
 | [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) | DataCamp | 4h |
 | [Foundation of Generative AI](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
 | [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/131273b38761250266a78286e27cd46392ae1758) | DataCamp | 4h |
+| [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
 
 
 
