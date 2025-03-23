@@ -6,7 +6,7 @@
 
 👩🏻‍💻 Skilled in Python, R, and SQL;
 
-💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies and Quantum Computing.
+💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies, and Quantum Computing.
 
 <br>
 
@@ -113,6 +113,8 @@
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
 <a href="https://www.oracle.com/database/sqldeveloper/" target="blank"><img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL-SQL"/></a>
+<!-- <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
+<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 
 
 <!-- Python -->
@@ -125,7 +127,7 @@
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<!-- <a href=""><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
+<!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 
 
 <!-- R -->
@@ -133,12 +135,20 @@
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
+
 <!-- Julia -->
 <p>
 <a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a>
 
 
+<!-- Mobile -->
+<!-- <p>
+<a href="https://dart.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge" alt="Dart"/></a>
+<a href="https://flutter.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter"/></a> -->
+
+
 <!-- Matlab -->
+
 
 
 <!-- Quantum -->
@@ -149,7 +159,7 @@
 
 <!-- Spatial Software / Geo -->
 <!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
+<a href="https://qgis.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
 
 
 <!-- Data Viz -->
@@ -187,10 +197,11 @@
 <p>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 <a href="https://colab.google/" target="blank"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/></a>
+<a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a>
 <a href="https://jupyter.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/></a>
-<a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="rstudio"/></a>
+<a href="https://posit.co/" target="blank"><img align="center" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="R Studio"/></a>
 <a href="https://developer.apple.com/xcode/" target="blank"><img align="center" src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode"/></a>
-<!-- <a href="https://www.anaconda.com/" target="blank"><img align="center" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="conda"/></a> -->
+<!-- <a href="https://developer.android.com/studio" target="blank"><img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=for-the-badge" alt="Android Studio"/></a> -->
 <!-- <a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a> -->
 
 
@@ -270,14 +281,11 @@
 
 
 
-
-
-
 <!-- 
 | LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
-| Estatística 2 | Prandiano | 66h | 
+| Estatística 2 | Prandiano | 66h |
 -->
 
 
