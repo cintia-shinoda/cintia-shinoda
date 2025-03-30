@@ -301,7 +301,7 @@
 | [Foundation of Generative AI](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
 | [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/131273b38761250266a78286e27cd46392ae1758) | DataCamp | 4h |
 | [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
-
+| [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
 
 
 <!-- 
