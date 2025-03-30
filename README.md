@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
@@ -31,11 +31,11 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![63%](https://geps.dev/progress/63) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![81%](https://geps.dev/progress/81) |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![83%](https://geps.dev/progress/83) |
 | Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
 | Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![38%](https://geps.dev/progress/38)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 
 <!-- | SAS | SAS |  | | ![0%](https://geps.dev/progress/0) | -->
