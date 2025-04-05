@@ -32,15 +32,14 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![83%](https://geps.dev/progress/83) |
-| Blockchain Engineering | DSA | 254h | ![6%](https://geps.dev/progress/6) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![86%](https://geps.dev/progress/86) |
 | Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| SAS Studio e SAS Visual Analytics | SAS | 12h | ![67%](https://geps.dev/progress/67) |
+| $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) |
 
 
-<!-- | SAS | SAS |  | | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- | $\LaTeX$ | Sociedade Brasileira de Matemática |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Mercado Financeiro Brasileiro | PUC-Rio | 19h | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
@@ -146,8 +145,10 @@
 <a href="https://www.ibm.com/quantum/qiskit" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
 
 
-<!-- R -->
+<!--  -->
+<!-- <a href="" target="blank"><img align="center" src="" alt="Matlab"/></a> -->
 <p>
+<a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a>
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
 
@@ -155,13 +156,6 @@
 <!-- Spatial Software / Geo -->
 <!-- <p>
 <a href="https://qgis.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
-
-
-<!-- Julia -->
-<p>
-<a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a>
-<!-- Matlab -->
-<!-- <a href="" target="blank"><img align="center" src="" alt="Matlab"/></a> -->
 
 
 <!-- Data Viz -->
@@ -302,7 +296,7 @@
 | [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/131273b38761250266a78286e27cd46392ae1758) | DataCamp | 4h |
 | [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
-
+| [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
 
 <!-- 
 | LaTeX | SBM |  |
