@@ -17,10 +17,9 @@
 <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
-<a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
-
+<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
 <br>
 
 -----
@@ -32,10 +31,9 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![86%](https://geps.dev/progress/86) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![88%](https://geps.dev/progress/88) |
 | Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| SAS Studio e SAS Visual Analytics | SAS | 12h | ![83%](https://geps.dev/progress/83) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) |
 
 
@@ -87,8 +85,8 @@
 -----
 
 
-
-<!-- <h3 align="left">Certifications:</h3>
+<!-- 
+<h3 align="left">Certifications:</h3>
 
 | Certification | School/Institution |
 |:--------|:--------------------|
@@ -111,10 +109,10 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
 <a href="https://www.oracle.com/database/sqldeveloper/" target="blank"><img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL-SQL"/></a>
 <a href="" target="blank"><img align="center" src="" alt=""/></a>
+<!-- <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a> -->
 <!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a>
 <a href="https://graphql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL"/></a>
 <a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a>
-<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
 <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 
 
@@ -299,6 +297,7 @@
 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
 
 <!-- 
+| SAS Studio e SAS Visual Analytics | SAS | 12h | ![83%](https://geps.dev/progress/83) |
 | LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
