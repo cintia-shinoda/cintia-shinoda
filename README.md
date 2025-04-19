@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds a BTech in Software Development and a *lato sensu* graduate degree in Artificial Intelligence and Machine Learning;
+🎓 Holds a B.Tech in Software Development and a *lato sensu* graduate degree in Artificial Intelligence and Machine Learning;
 
 🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
 
@@ -17,8 +17,9 @@
 <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
-<a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
+<a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
 <br>
 
@@ -32,7 +33,7 @@
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![88%](https://geps.dev/progress/88) |
-| Estatística 3 | Prandiano | 66h | ![36%](https://geps.dev/progress/36) |
+| Estatística 3 | Prandiano | 66h | ![45%](https://geps.dev/progress/45) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) |
 
@@ -295,9 +296,10 @@
 | [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
+| [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
+
 
 <!-- 
-| SAS Studio e SAS Visual Analytics | SAS | 12h | ![83%](https://geps.dev/progress/83) |
 | LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
