@@ -32,19 +32,19 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![88%](https://geps.dev/progress/88) |
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![90%](https://geps.dev/progress/90) |
 | Estatística 3 | Prandiano | 66h | ![45%](https://geps.dev/progress/45) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![57%](https://geps.dev/progress/57)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
+<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
 
 <!-- | Mercado Financeiro Brasileiro | PUC-Rio | 19h | ![11%](https://geps.dev/progress/11) | -->
 
-<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
+
 
 <!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
-
-<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
 
