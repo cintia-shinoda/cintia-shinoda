@@ -31,7 +31,7 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) <ul><li>Atividade Complementar (200h): ![100%](https://geps.dev/progress/100)</li><li>Estágio Obrigatório (100h): ![0%](https://geps.dev/progress/0)</li><li>TCC: ![0%](https://geps.dev/progress/0)</li></ul> |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | <ul><li>![69%](https://geps.dev/progress/69)</li><li>Atividade Complementar (200h): ![100%](https://geps.dev/progress/100)</li><li>Estágio Obrigatório (100h): ![0%](https://geps.dev/progress/0)</li><li>TCC: ![0%](https://geps.dev/progress/0)</li></ul> |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![95%](https://geps.dev/progress/95) |
 | Estatística 3 | Prandiano | 66h | ![45%](https://geps.dev/progress/45) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
