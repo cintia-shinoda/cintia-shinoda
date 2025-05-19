@@ -33,8 +33,8 @@
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![95%](https://geps.dev/progress/95) |
-| Estatística 3 | Prandiano | 66h | ![45%](https://geps.dev/progress/45) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Estatística 3 | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 
 <!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
@@ -109,21 +109,12 @@
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
 <a href="https://www.oracle.com/database/sqldeveloper/" target="blank"><img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL-SQL"/></a>
-<a href="" target="blank"><img align="center" src="" alt=""/></a>
-<!-- <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a> -->
-<!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a>
-<a href="https://graphql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL"/></a>
-<a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a>
-<a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
-
-
-<!-- AI / LLM -->
-<!-- <p>
-<a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
-<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
-<a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-<a href="https://huggingface.co/" target="blank"><img align="center" src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+<a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
+<!-- <a href="https://arangodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ArangoDB-DDDF72?logo=arangodb&logoColor=000&style=for-the-badge" alt="ArangoDB"/></a> -->
+<!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a> -->
+<!-- <a href="https://graphql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL"/></a> -->
+<!-- <a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a> -->
+<!-- <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 
 
 <!-- Python -->
@@ -136,6 +127,7 @@
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+<!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 
 
@@ -167,7 +159,7 @@
 <!-- <p>
 <a href="https://dart.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge" alt="Dart"/></a>
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter"/></a>
-<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt=""/></a> -->
+<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift"/></a> -->
 
 
  <!-- Documentation -->
@@ -182,23 +174,45 @@
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 
+<!-- Tests -->
+<p>
+<a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
+
+<!-- Continuous Integration / Continuous Deployment -->
+<p>
+<a href="https://github.com/features/actions" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions"/></a>
+
 
 <!-- Cloud -->
 <!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge" alt="AWS Web Services"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="GCP - Google Cloud"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/></a> -->
+<a href="https://aws.amazon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=for-the-badge" alt="AWS Web Services"/></a>
+<a href="https://cloud.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge" alt="GCP - Google Cloud"/></a>
+<a href="https://azure.microsoft.com" target="blank"><img align="center" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/></a> -->
 
 
 <!-- Virtualization -->
 <!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/></a> -->
+<a href="https://www.docker.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+<a href="https://www.oracle.com/virtualization/virtualbox/" target="blank"><img align="center" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/></a> -->
 
 
 <!-- Deploy -->
 <p>
 <a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/></a>
+<a href="https://render.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render"/></a>
+<a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/></a>
+
+
+<!-- AI / LLM -->
+<p>
+<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
+<a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
+<a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+<a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+<a href="https://www.deepseek.com/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" alt="Deepseek"/></a>
+<a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
+<!-- <a href="https://huggingface.co/" target="blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
+<!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
 
 
 <!-- Web & Design -->
