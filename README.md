@@ -37,7 +37,7 @@
 | [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Financial Market |  |  | ![56%](https://geps.dev/progress/56) |
-| Drone Piloting |  |  | ![16%](https://geps.dev/progress/16) |
+| Drones Piloting |  |  | ![16%](https://geps.dev/progress/16) |
 | Photography |  |  | ![0%](https://geps.dev/progress/0) |
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Praxis | Prandiano |  | ![3%](https://geps.dev/progress/3) | -->
