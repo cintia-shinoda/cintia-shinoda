@@ -31,30 +31,22 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![69%](https://geps.dev/progress/69) |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![81%](https://geps.dev/progress/81) |
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![95%](https://geps.dev/progress/95) |
-| Estatística 3 | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
+| Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
+| [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-
-<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
+| Financial Market |  |  | ![56%](https://geps.dev/progress/56) |
+| Drone Piloting |  |  | ![16%](https://geps.dev/progress/16) |
+| Photography |  |  | ![0%](https://geps.dev/progress/0) |
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | Praxis | Prandiano | 35h | ![3%](https://geps.dev/progress/3) | -->
-
-<!-- | Mercado Financeiro Brasileiro | PUC-Rio | 19h | ![11%](https://geps.dev/progress/11) | -->
-
-
-
-<!-- | Curso de Pilotagem de Drones |  |  | ![16%](https://geps.dev/progress/16) | -->
-
-<!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- | Data Scientist | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
-
+<!-- | Praxis | Prandiano |  | ![3%](https://geps.dev/progress/3) | -->
 <!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
 <!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
 
+<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
 
@@ -112,7 +104,6 @@
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
 <!-- <a href="https://arangodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ArangoDB-DDDF72?logo=arangodb&logoColor=000&style=for-the-badge" alt="ArangoDB"/></a> -->
 <!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a> -->
-<!-- <a href="https://graphql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL"/></a> -->
 <!-- <a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a> -->
 <!-- <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 
@@ -139,9 +130,10 @@
 <!--  -->
 <!-- <a href="" target="blank"><img align="center" src="" alt="Matlab"/></a> -->
 <p>
-<a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a>
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
 <a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
+<!-- <a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a> -->
+
 
 
 <!-- Spatial Software / Geo -->
@@ -216,10 +208,10 @@
 
 
 <!-- Web & Design -->
-<p>
+<!-- <p>
 <a href="https://html.spec.whatwg.org/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
 <a href="https://www.w3.org/TR/css3-roadmap/" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
-<a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a> -->
 
 
 <!-- IDEs -->
