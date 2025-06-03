@@ -338,7 +338,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10" alt="Top Langs" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" />
     </td>
   </tr>
 </table>
