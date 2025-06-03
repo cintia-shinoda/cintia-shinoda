@@ -36,9 +36,9 @@
 | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 | [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| Financial Market |  |  | ![56%](https://geps.dev/progress/56) |
+| Financial Market |  |  | ![67%](https://geps.dev/progress/67) |
 | Drones Piloting |  |  | ![16%](https://geps.dev/progress/16) |
-| Photography |  |  | ![0%](https://geps.dev/progress/0) |
+<!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Praxis | Prandiano |  | ![3%](https://geps.dev/progress/3) | -->
 <!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
@@ -323,12 +323,25 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="github-visitors" />
+<!-- Shields -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/cintia-shinoda" alt="GitHub Last Commit" />
+  <img src="https://img.shields.io/github/forks/cintia-shinoda/cintia-shinoda" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/stars/cintia-shinoda/cintia-shinoda" alt="GitHub Stars" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
+<!-- Gráficos -->
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10" alt="Top Langs" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda&" alt="github-stats" />
+    </td>
+  </tr>
+</table>
 
 
 <!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true)  -->
