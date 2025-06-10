@@ -38,6 +38,7 @@
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Financial Market |  |  | ![67%](https://geps.dev/progress/67) |
 | Drones Piloting |  |  | ![16%](https://geps.dev/progress/16) |
+<!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Praxis | Prandiano |  | ![3%](https://geps.dev/progress/3) | -->
@@ -214,6 +215,15 @@
 <a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a> -->
 
 
+
+<!-- Crypto -->
+<p>
+<a href="bitcoin:bc1qw0803jzllhy5k2z0xuykrn4g64fs5z4044z4xe" target="_blank"><img align="center" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="bitcoin"/></a>
+<a href="bitcoincash:qqtykzkls474eequ7pded9p60ttrsj644gwg7wxlcn" target="_blank"><img align="center" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff&style=for-the-badge" alt="bitcoin-cash"/></a>
+<a href="ethereum:0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="_blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a>
+
+
+
 <!-- IDEs -->
 <p>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
@@ -234,12 +244,6 @@
 <!-- <a href="https://www.apple.com/br/ios" target="blank"><img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a> -->
 <!-- <a href="https://www.kali.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Linux Kali"/></a> -->
 
-
-<!-- Crypto -->
-<!-- <p>
-<a href="bc1qw0803jzllhy5k2z0xuykrn4g64fs5z4044z4xe" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="bitcoin"/></a>
-<a href="qqtykzkls474eequ7pded9p60ttrsj644gwg7wxlcn" target="blank"><img align="center" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff&style=for-the-badge" alt="bitcoin-cash"/></a>
-<a href="0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a> -->
 
 
 <!-- Equipment -->
