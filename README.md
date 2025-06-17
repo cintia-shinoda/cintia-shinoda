@@ -35,8 +35,8 @@
 | [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![95%](https://geps.dev/progress/95) |
 | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 | [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![67%](https://geps.dev/progress/67)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| Financial Market |  |  | ![67%](https://geps.dev/progress/67) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Financial Market |  |  | ![89%](https://geps.dev/progress/89) |
 | Drones Piloting |  |  | ![16%](https://geps.dev/progress/16) |
 <!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
@@ -198,13 +198,17 @@
 
 <!-- AI / LLM -->
 <p>
-<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
-<a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
 <a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+<a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
 <a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
 <a href="https://www.deepseek.com/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" alt="Deepseek"/></a>
 <a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
-<!-- <a href="https://huggingface.co/" target="blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
+<a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a>
+
+<p>
+<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
+<a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
+<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a>
 <!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
 
 
@@ -339,7 +343,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Langs" />
     </td>
     <td valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" />
