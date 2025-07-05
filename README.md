@@ -1,15 +1,17 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds a B.Tech in Software Development and a *lato sensu* graduate degree in Artificial Intelligence and Machine Learning;
+🎓 Holds:
+- B.Tech in Software Development;
+- *lato sensu* Graduate Degree in Artificial Intelligence and Machine Learning;
+- [Specialization in Applied Mathematical Methods](https://github.com/cintia-shinoda/utfpr_emma);
 
-🌱 Currently pursuing a Bachelor's Degree in Data Science and a Specialization in Applied Mathematical Methods;
+🌱 Currently pursuing a [Bachelor's Degree in Data Science](https://github.com/cintia-shinoda/univesp);
 
-👩🏻‍💻 Skilled in Python, R, and SQL;
+👩🏻‍💻 Proficient in Python, R, and SQL for Data Analysis, Modeling, and Automation;
 
-💻 Interested in Data Science, Artificial Intelligence, Blockchain technologies, and Quantum Computing.
+💻 Areas of Interest: Data Science, Artificial Intelligence, Blockchain technologies, and Quantum Computing.
 
 <br>
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -31,18 +33,19 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![81%](https://geps.dev/progress/81) |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h | ![95%](https://geps.dev/progress/95) |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
 | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
 | [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![71%](https://geps.dev/progress/71)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| Financial Market |  |  | ![89%](https://geps.dev/progress/89) |
-| Drones Piloting |  |  | ![16%](https://geps.dev/progress/16) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![76%](https://geps.dev/progress/76)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
+| Praxis |  |  | ![4%](https://geps.dev/progress/4) |
+
+
+<!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
+<!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | Praxis | Prandiano |  | ![3%](https://geps.dev/progress/3) | -->
-<!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
+
 
 <!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
 
@@ -90,11 +93,6 @@
 
 --- -->
 
-
-
-<!--
-<a href="" target="blank"><img align="center" src="" alt=""/></a>
--->
 
 <h3 align="left">Tech Stack:</h3>
 
@@ -276,6 +274,7 @@
 | The Data Scientist's Toolbox | Johns Hopkins University | 18h |
 | Big Data and Social Physics | MIT |  |
 | Adobe Illustrator | Cadritech | 32h |
+| Software Development B.Tech | FIAP | 2000h |
 | Envisioning Big Data | FIAP | 20h |
 | WordPress for Beginners | Udemy |  |
 | Internet History, Technology, and Security | University of Michigan | 15h |
@@ -293,6 +292,7 @@
 | Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura | 8h |
 | Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura | 10h |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
+| Artificial Intelligence & Machine Learning *lato sensu* Graduate Degree | FIAP | 360h |
 | Data Science: Primeiros Passos | Alura | 6h |
 | Python e Orientação a Objetos | Caelum | 32h |
 | Big Data | Prandiano | 96h |
@@ -304,14 +304,15 @@
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 | [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
-| [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/e9dfab951a328778b1b7342f5ef075b33f687830) | DataCamp | 4h |
-| [Foundation of Generative AI](https://www.udacity.com/certificate/e/e60c0c14-b7bc-11ef-997d-eb10980c86ef) | Udacity |  |
-| [Intermediate Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/131273b38761250266a78286e27cd46392ae1758) | DataCamp | 4h |
+| [Introduction to Python](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/01-Introduction-Python/certificate.pdf) | DataCamp | 4h |
+| [Foundation of Generative AI](https://github.com/cintia-shinoda/ai/blob/main/02-Udacity-GenAI/certificate.png) | Udacity |  |
+| [Intermediate Python](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/02-Intermediate-Python/certificate.pdf) | DataCamp | 4h |
 | [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
-
+| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h |
+| Brazilian Financial Market | PUC | 19h |
 
 <!-- 
 | LaTeX | SBM |  |
