@@ -35,7 +35,7 @@
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
 | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
-| [Statistics 3](https://github.com/cintia-shinoda/stats/tree/master/03-Prandiano-Experimentando-Estatistica-3) | Prandiano | 66h | ![55%](https://geps.dev/progress/55) |
+| Statistics 3 |  | 66h | ![55%](https://geps.dev/progress/55) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![76%](https://geps.dev/progress/76)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
 | Praxis |  |  | ![4%](https://geps.dev/progress/4) |
