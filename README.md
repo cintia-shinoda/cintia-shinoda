@@ -1,15 +1,19 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
-🎓 Holds:
-- B.Tech in Software Development;
-- *lato sensu* Graduate Degree in Artificial Intelligence and Machine Learning;
-- [Specialization in Applied Mathematical Methods](https://github.com/cintia-shinoda/utfpr_emma);
+#### 🎓 Education:
+- Software Development B.Tech
+- Artificial Intelligence and Machine Learning Postgraduate Specialization (*lato sensu*)
+- [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma)
 
-🌱 Currently pursuing a [Bachelor's Degree in Data Science](https://github.com/cintia-shinoda/univesp);
+#### 🌱 Currently:
+- Pursuing a [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp)
 
-👩🏻‍💻 Proficient in Python, R, and SQL for Data Analysis, Modeling, and Automation;
+#### 👩🏻‍💻 Technical Proficiency:
+Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
 
-💻 Areas of Interest: Data Science, Artificial Intelligence, Blockchain technologies, and Quantum Computing.
+#### 💻 Areas of Interest:
+Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research
+ <!-- · Quantum Computing · Robotics · Geo-Spatial Analysis · Automation -->
 
 <br>
 
@@ -34,13 +38,12 @@
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
-| Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) |
-| Statistics 3 |  | 66h | ![55%](https://geps.dev/progress/55) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![76%](https://geps.dev/progress/76)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| Statistics 3 |  | 66h | ![73%](https://geps.dev/progress/73) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
 | Praxis |  |  | ![4%](https://geps.dev/progress/4) |
 
-
+<!-- | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
@@ -226,7 +229,7 @@
 
 
 
-<!-- IDEs -->
+<!-- IDE -->
 <p>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/></a>
 <a href="https://colab.google/" target="blank"><img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab"/></a>
@@ -274,7 +277,7 @@
 | The Data Scientist's Toolbox | Johns Hopkins University | 18h |
 | Big Data and Social Physics | MIT |  |
 | Adobe Illustrator | Cadritech | 32h |
-| Software Development B.Tech | FIAP | 2000h |
+| **Software Development B.Tech** | **FIAP** | **2000h** |
 | Envisioning Big Data | FIAP | 20h |
 | WordPress for Beginners | Udemy |  |
 | Internet History, Technology, and Security | University of Michigan | 15h |
@@ -292,7 +295,7 @@
 | Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura | 8h |
 | Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura | 10h |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
-| Artificial Intelligence & Machine Learning *lato sensu* Graduate Degree | FIAP | 360h |
+| **Artificial Intelligence & Machine Learning *lato sensu* Graduate Degree** | **FIAP** | **360h** |
 | Data Science: Primeiros Passos | Alura | 6h |
 | Python e Orientação a Objetos | Caelum | 32h |
 | Big Data | Prandiano | 96h |
@@ -311,7 +314,7 @@
 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
-| [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma) | UTFPR | 420h |
+| [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** |
 | Brazilian Financial Market | PUC | 19h |
 
 <!-- 
@@ -320,7 +323,6 @@
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h |
 -->
-
 
 </details>
 
@@ -335,18 +337,20 @@
 <!-- Shields -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cintia-shinoda&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/last-commit/cintia-shinoda/cintia-shinoda" alt="GitHub Last Commit" />
-  <img src="https://img.shields.io/github/forks/cintia-shinoda/cintia-shinoda" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/stars/cintia-shinoda/cintia-shinoda" alt="GitHub Stars" />
+  <!-- <img src="https://img.shields.io/github/last-commit/cintia-shinoda/cintia-shinoda" alt="GitHub Last Commit" /> -->
+  <!-- <img src="https://img.shields.io/github/forks/cintia-shinoda/cintia-shinoda" alt="GitHub Forks" /> -->
+  <!-- <img src="https://img.shields.io/github/stars/cintia-shinoda/cintia-shinoda" alt="GitHub Stars" /> -->
 </p>
 
-<!-- Gráficos -->
+<!-- Graphs -->
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Langs" />
+    <!-- Top Languages -->
+    <td valign="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Languages" />
     </td>
-    <td valign="top">
+    <!-- GitHub Contributions & Streak -->
+    <td valign="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" />
     </td>
   </tr>
