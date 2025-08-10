@@ -42,64 +42,21 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
 | Praxis |  |  | ![4%](https://geps.dev/progress/4) |
 
-
-
-<!-- | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
-<!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
-
-
-
-
-<!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
-
-
-<!-- | Supervised Machine Learning: Regression and Classification | Stanford University | 15h | ![0%](https://geps.dev/progress/0) | -->
-
-
-<!-- | Geociências | IBGE |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- |  | UFSC |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- |  | Santa Fe Institute |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- | Build Python Web Apps with Django | Codecademy | 13h | ![10%](https://geps.dev/progress/10) | -->
-
-<!-- | Back-End Engineer | Codecademy | 100h | ![0%](https://geps.dev/progress/0) |
-
-| Associate Data Scientist in Python | DataCamp | 86h | ![0%](https://geps.dev/progress/0) | -->
-
-<!-- | [Kanji](https://github.com/cintia-shinoda/kanji_basico) | Aliança Cultural Brasil-Japão | 200h | <ul><li>Level 4: ![89%](https://geps.dev/progress/89)</li><li>Overall progress: ![75%](https://geps.dev/progress/75)</li></ul>| -->
-
-<!-- |  | edX |  | ![0%](https://geps.dev/progress/0) | -->
-
-<!--  
-| Learn the Command Line | Codecademy | 4h | ![0%](https://geps.dev/progress/0) | -->
-
-<!--
-| Trilha Data Science & Machine Learning | Asimov Academy | 60h | ![6%](https://progress-bar.dev/6) |
-
-| Google Data Analytics Professional Certificate | Google |  | ![0%](https://progress-bar.dev/0) |
-
-| Become an AI Developer Code-Along Series | DataCamp | ~30h | ![0%](https://progress-bar.dev/0) |
--->
-
 <br>
 
 -----
 
 
-<!-- 
+
 <h3 align="left">Certifications:</h3>
 
 | Certification | School/Institution |
 |:--------|:--------------------|
-| TOEFL ITP (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
+| TOEFL (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
 
 <br>
 
---- -->
+---
 
 
 <h3 align="left">Tech Stack:</h3>
