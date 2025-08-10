@@ -13,7 +13,6 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 #### 💻 Areas of Interest:
 Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research
- <!-- · Quantum Computing · Robotics · Geo-Spatial Analysis · Automation -->
 
 <br>
 
@@ -39,12 +38,18 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
 | Statistics 3 |  | 66h | ![73%](https://geps.dev/progress/73) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![90%](https://geps.dev/progress/90)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![93%](https://geps.dev/progress/93)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
 | Praxis |  |  | ![4%](https://geps.dev/progress/4) |
 
+
+
 <!-- | Data Scientist Training | DSA | 560h | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Manim |  |  | ![0%](https://geps.dev/progress/0) |  -->
+
+
+
+
 <!-- | $\LaTeX$ | SBM |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | LLM Engineering |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Photography |  |  | ![0%](https://geps.dev/progress/0) | -->
