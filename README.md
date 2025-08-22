@@ -38,9 +38,12 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
 | Statistics 3 |  | 66h | ![73%](https://geps.dev/progress/73) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![93%](https://geps.dev/progress/93)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![95%](https://geps.dev/progress/95)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
 | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
-| Praxis |  |  | ![4%](https://geps.dev/progress/4) |
+| Operations Research | USP | 60h | ![20%](https://geps.dev/progress/20) |
+| QML |  |  | ![33%](https://geps.dev/progress/33) |
+<!-- | $\LaTeX$ |  | 12h | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
 
 <br>
 
