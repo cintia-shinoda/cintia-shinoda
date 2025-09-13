@@ -1,12 +1,13 @@
 <h2 align="center">Hi there, I'm Cintia 👋</h2>
 
 #### 🎓 Education:
-- Software Development B.Tech
-- Artificial Intelligence and Machine Learning Postgraduate Specialization (*lato sensu*)
-- [Applied Mathematical Methods Specialization](https://github.com/cintia-shinoda/utfpr_emma)
+- Software Development, B.Tech
+- Artificial Intelligence and Machine Learning, Postgraduate Specialization (*lato sensu*)
+- [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
+- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 #### 🌱 Currently:
-- Pursuing a [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp)
+- Pursuing a [Data Science B.Sc.](https://github.com/cintia-shinoda/univesp)
 
 #### 👩🏻‍💻 Technical Proficiency:
 Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
@@ -37,13 +38,14 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
-| Statistics 3 |  | 66h | ![73%](https://geps.dev/progress/73) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level I: ![95%](https://geps.dev/progress/95)</li><li>Overall progress: ![73%](https://geps.dev/progress/73)</li></ul> |
-| Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) |
-| Operations Research | USP | 60h | ![20%](https://geps.dev/progress/20) |
-| QML |  |  | ![33%](https://geps.dev/progress/33) |
+| Statistics 3 |  | 66h | ![82%](https://geps.dev/progress/82) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![5%](https://geps.dev/progress/5)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| Operations Research | USP | 60h | ![40%](https://geps.dev/progress/40) |
+| QML |  |  | ![67%](https://geps.dev/progress/67) |
 <!-- | $\LaTeX$ |  | 12h | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
+<!-- | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) | -->
+
 
 <br>
 
@@ -69,10 +71,10 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
 <a href="https://www.oracle.com/database/sqldeveloper/" target="blank"><img align="center" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL-SQL"/></a>
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
+<!-- <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 <!-- <a href="https://arangodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ArangoDB-DDDF72?logo=arangodb&logoColor=000&style=for-the-badge" alt="ArangoDB"/></a> -->
 <!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a> -->
 <!-- <a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a> -->
-<!-- <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
 
 
 <!-- Python -->
