@@ -2,12 +2,13 @@
 
 #### 🎓 Education:
 - Software Development, B.Tech
-- Artificial Intelligence and Machine Learning, Postgraduate Specialization (*lato sensu*)
+- Artificial Intelligence and Machine Learning, Specialization
 - [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
-- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
+- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of Data Science B\.Sc\.
 
 #### 🌱 Currently:
-- Pursuing a [Data Science B.Sc.](https://github.com/cintia-shinoda/univesp)
+- [Data Science, B.Sc.](https://github.com/cintia-shinoda/univesp)
+- [Robotics, Specialization](https://github.com/cintia-shinoda/ufv_robotica)
 
 #### 👩🏻‍💻 Technical Proficiency:
 Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
@@ -38,10 +39,14 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
-| Statistics 3 |  | 66h | ![82%](https://geps.dev/progress/82) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![5%](https://geps.dev/progress/5)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
-| Operations Research | USP | 60h | ![40%](https://geps.dev/progress/40) |
-| QML |  |  | ![67%](https://geps.dev/progress/67) |
+| Robotics Specialization | UFV | 420h | ![0%](https://geps.dev/progress/0) |
+| Statistics 3 | Prandiano | 66h | ![91%](https://geps.dev/progress/91) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![10%](https://geps.dev/progress/10)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| Operations Research | USP | 60h | ![60%](https://geps.dev/progress/60) |
+
+
+
+<!-- | QML |  |  | ![67%](https://geps.dev/progress/67) | -->
 <!-- | $\LaTeX$ |  | 12h | ![0%](https://geps.dev/progress/0) | -->
 <!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
 <!-- | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) | -->
@@ -50,7 +55,6 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 <br>
 
 -----
-
 
 
 <h3 align="left">Certifications:</h3>
