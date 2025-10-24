@@ -6,12 +6,35 @@
 - [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of Data Science B\.Sc\.
 
+
 #### 🌱 Currently:
-- [Data Science, B.Sc.](https://github.com/cintia-shinoda/univesp)
-- [Robotics, Specialization](https://github.com/cintia-shinoda/ufv_robotica)
+
+<div align="center" width="80%">
+
+| Course | School/Institution | Workload | Progress |
+|--------|--------------------|----------|----------|
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | [UNIVESP - Virtual University of the State of São Paulo](https://univesp.br/) | 3500h | ![88%](https://geps.dev/progress/88) |
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | [UFV - Federal University of Viçosa](https://www.ufv.br/) | 420h | ![10%](https://geps.dev/progress/10) |
+| [Advanced Python Specialization]() | UTFPR | 360h | ![0%](https://geps.dev/progress/0) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![14%](https://geps.dev/progress/14)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| Ethereum Dev |  |  | - |
+| LLM Engineering |  |  | - |
+| Drones Piloting |  |  | - |
+
+
+
+<!-- | $\LaTeX$ |  |  | - | -->
+<!-- | Quantum Machine Learning |  |  | - | -->
+<!-- | Operations Research | [USP - University of São Paulo](https://www5.usp.br/) | 60h | ![60%](https://geps.dev/progress/60) | -->
+<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
+
+
+</div>
+
 
 #### 👩🏻‍💻 Technical Proficiency:
 Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
+
 
 #### 💻 Areas of Interest:
 Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research
@@ -28,44 +51,29 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
-<br>
 
------
-
-
-
-<h3 align="left">Working on:</h3>
-
-| Course | School/Institution | Workload | Progress |
-|--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3200h | ![80%](https://geps.dev/progress/80) |
-| Robotics Specialization | UFV | 420h | ![0%](https://geps.dev/progress/0) |
-| Statistics 3 | Prandiano | 66h | ![91%](https://geps.dev/progress/91) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![10%](https://geps.dev/progress/10)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
-| Operations Research | USP | 60h | ![60%](https://geps.dev/progress/60) |
-
-
-
-<!-- | QML |  |  | ![67%](https://geps.dev/progress/67) | -->
-<!-- | $\LaTeX$ |  | 12h | ![0%](https://geps.dev/progress/0) | -->
-<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
-<!-- | Drones Piloting |  |  | ![17%](https://geps.dev/progress/17) | -->
-
+<!-- AWS Skill Builder:
+https://skillsprofile.skillbuilder.aws/user/cintia -->
 
 <br>
 
 -----
 
 
-<h3 align="left">Certifications:</h3>
+
+<!-- <h3 align="left">Certifications:</h3>
+
+<div align="center">
 
 | Certification | School/Institution |
 |:--------|:--------------------|
 | TOEFL (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
 
+</div>
+
 <br>
 
----
+--- -->
 
 
 <h3 align="left">Tech Stack:</h3>
@@ -169,18 +177,18 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 
 
 <!-- AI / LLM -->
-<p>
+<!-- <p>
 <a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
 <a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
 <a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
 <a href="https://www.deepseek.com/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" alt="Deepseek"/></a>
 <a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
-<a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a>
+<a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a> -->
 
 <p>
-<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
+<!-- <a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
 <a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
-<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a>
+<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
 <!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
 
 
@@ -231,6 +239,25 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 <br>
 
 ----
+
+
+
+<!-- <h3 align="left">Languages:</h3>
+
+<div align="center">
+
+| Language | Proficiency |
+|:--------|:------------:|
+| Portuguese | Native |
+| English | Advanced |
+| Japanese | Beginner |
+| French | Basic |
+
+</div>
+
+<br>
+
+----- -->
 
 
 
@@ -287,12 +314,15 @@ Data Science · Artificial Intelligence · Blockchain · Drones · Photography �
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
 | [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** |
 | Brazilian Financial Market | PUC | 19h |
+| A Engenharia das Missões Espaciais | INPE | 23h |
+
 
 <!-- 
 | LaTeX | SBM |  |
 | PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h |
+| Estatística 3 | Prandiano | 66h |
 -->
 
 </details>
