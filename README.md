@@ -4,7 +4,7 @@
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
 - [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
-- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of Data Science B\.Sc\.
+- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
 #### 🌱 Currently:
@@ -13,21 +13,23 @@
 
 | Course | School/Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | [UNIVESP - Virtual University of the State of São Paulo](https://univesp.br/) | 3500h | ![88%](https://geps.dev/progress/88) |
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | [UFV - Federal University of Viçosa](https://www.ufv.br/) | 420h | ![10%](https://geps.dev/progress/10) |
-| [Advanced Python Specialization]() | UTFPR | 360h | ![0%](https://geps.dev/progress/0) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![14%](https://geps.dev/progress/14)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
-| Ethereum Dev |  |  | - |
-| LLM Engineering |  |  | - |
-| Drones Piloting |  |  | - |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![88%](https://geps.dev/progress/88) |
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![10%](https://geps.dev/progress/10) |
+| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![0%](https://geps.dev/progress/0) |
+| Statistics 4 |  | 50h | ![0%](https://geps.dev/progress/0) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![19%](https://geps.dev/progress/19)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
+| AR/VR Development |  |  |  |
+| Drones Piloting |  |  |  |
 
 
 
 <!-- | $\LaTeX$ |  |  | - | -->
 <!-- | Quantum Machine Learning |  |  | - | -->
 <!-- | Operations Research | [USP - University of São Paulo](https://www5.usp.br/) | 60h | ![60%](https://geps.dev/progress/60) | -->
-<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | -->
-
+<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | 
+-->
+<!-- | Ethereum Dev |  |  | - | -->
 
 </div>
 
