@@ -290,17 +290,14 @@ https://www.credly.com/users/cintia-shinoda
 | Big Data and Social Physics | MIT |  |
 | **Software Development B.Tech** | **FIAP** | **2000h** |
 | Envisioning Big Data | FIAP | 20h |
-| Internet History, Technology, and Security | University of Michigan | 15h |
-| Introduction to HTML5 | University of Michigan | 13h |
 | Bitcoin e Blockchain | FIAP | 6h |
 | Modelagem de Dados | Fundação Bradesco | 35h |
 | Administrando e Armazenando Dados | Fundação Bradesco | 31h |
-| Projetando e Implementando Dados com SQL Server 2005 | Fundação Bradesco | 58h |
+| Projetando e Implementando Dados com SQL Server | Fundação Bradesco | 58h |
 | Java e Orientação a Objetos | Caelum | 40h |
 | Java para Desenvolvimento Web | Caelum | 40h |
 | Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h |
-| Swift 3: Desenvolvendo para iOS no XCode - parte I | Alura | 8h |
-| Swift 3: Desenvolvendo para iOS no XCode - parte II | Alura | 10h |
+| Swift 3: Desenvolvendo para iOS no XCode | Alura | 18h |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
 | **Artificial Intelligence & Machine Learning *lato sensu* Graduate Degree** | **FIAP** | **360h** |
 | Python e Orientação a Objetos | Caelum | 32h |
@@ -311,6 +308,7 @@ https://www.credly.com/users/cintia-shinoda
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 | [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
+| PyChain | Prandiano | 30h |
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
 | [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** |
 | Brazilian Financial Market | PUC | 19h |
@@ -319,7 +317,6 @@ https://www.credly.com/users/cintia-shinoda
 
 <!-- 
 | LaTeX | SBM |  |
-| PyChain | Prandiano | 30h |
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h |
 | Estatística 3 | Prandiano | 66h |
@@ -330,6 +327,8 @@ https://www.credly.com/users/cintia-shinoda
 | Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |
 | Introdução à Física Quântica | b_arco | 12h |
 | Adobe Illustrator | Cadritech | 32h |
+| Internet History, Technology, and Security | University of Michigan | 15h |
+| Introduction to HTML5 | University of Michigan | 13h |
 | WordPress for Beginners | Udemy |  |
 | Estatística I: Entenda seus dados com R | Alura | 8h |
 | Estatística II: Aprofundando em Hipóteses e Correlações | Alura | 8h |
