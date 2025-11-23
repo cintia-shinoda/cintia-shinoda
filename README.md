@@ -325,7 +325,7 @@ https://www.credly.com/users/cintia-shinoda
 | Estatística 3 | Prandiano | 66h |
 -->
 
-<!-->
+<!--
 | Introdução à Lógica de Programação | Impacta | 40h |
 | Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |
 | Introdução à Física Quântica | b_arco | 12h |
