@@ -1,6 +1,8 @@
-<h2 align="center">Hi there, I'm Cintia 👋</h2>
+<h2 align="center">Hi there, I'm Cintia 😊</h2>
+
 
 #### 🎓 Education:
+
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
 - [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
@@ -9,27 +11,17 @@
 
 #### 🌱 Currently:
 
-<div align="center" width="80%">
+<div align="center" width="85%">
 
-| Course | School/Institution | Workload | Progress |
+|  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![95%](https://geps.dev/progress/95) |
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![20%](https://geps.dev/progress/20) |
-| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![0%](https://geps.dev/progress/0) |
-| Statistics 4 |  | 50h | ![20%](https://geps.dev/progress/20) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![29%](https://geps.dev/progress/29)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
+| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
+| Statistics 4 | Prandiano | 50h | ![30%](https://geps.dev/progress/30) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
-| AR/VR Development |  |  |  |
-| Drones Piloting |  |  |  |
-
-
-
-<!-- | $\LaTeX$ |  |  | - | -->
-<!-- | Quantum Machine Learning |  |  | - | -->
-<!-- | Operations Research | [USP - University of São Paulo](https://www5.usp.br/) | 60h | ![60%](https://geps.dev/progress/60) | -->
-<!-- | Praxis |  |  | ![4%](https://geps.dev/progress/4) | 
--->
-<!-- | Ethereum Dev |  |  | - | -->
+| Drones Piloting |  | - | - |
 
 </div>
 
@@ -39,7 +31,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 
 #### 💻 Areas of Interest:
-Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research
+Data Science · Artificial Intelligence · Blockchain · Drone · Photography · Statistics · Mathematics · Operations Research
 
 <br>
 
@@ -238,10 +230,10 @@ https://www.credly.com/users/cintia-shinoda
 
 
 <!-- OS -->
-<p>
-<a href="https://www.apple.com/br/macos/" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a>
-<a href="https://ubuntu.com" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a>
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a>
+<!-- <p> -->
+<!-- <a href="https://www.apple.com/br/macos/" target="blank"><img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macos"/></a> -->
+<!-- <a href="https://ubuntu.com" target="blank"><img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/></a> -->
+<!-- <a href="https://www.microsoft.com/en-us/windows?r=1" target="blank"><img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/></a> -->
 <!-- <a href="https://www.apple.com/br/ios" target="blank"><img align="center" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/></a> -->
 <!-- <a href="https://www.kali.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" alt="Linux Kali"/></a> -->
 
@@ -294,12 +286,10 @@ https://www.credly.com/users/cintia-shinoda
 | Modelagem de Dados | Fundação Bradesco | 35h |
 | Administrando e Armazenando Dados | Fundação Bradesco | 31h |
 | Projetando e Implementando Dados com SQL Server | Fundação Bradesco | 58h |
-| Java e Orientação a Objetos | Caelum | 40h |
-| Java para Desenvolvimento Web | Caelum | 40h |
-| Laboratório Java com Testes, JSF e Design Patterns | Caelum | 20h |
+| Java | Caelum | 100h |
 | Swift 3: Desenvolvendo para iOS no XCode | Alura | 18h |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
-| **Artificial Intelligence & Machine Learning *lato sensu* Graduate Degree** | **FIAP** | **360h** |
+| **Artificial Intelligence & Machine Learning Specialization** | **FIAP** | **360h** |
 | Python e Orientação a Objetos | Caelum | 32h |
 | Big Data | Prandiano | 96h |
 | Blockchain | Prandiano | 48h |
@@ -313,13 +303,14 @@ https://www.credly.com/users/cintia-shinoda
 | [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** |
 | Brazilian Financial Market | PUC | 19h |
 | A Engenharia das Missões Espaciais | INPE | 23h |
-
+| **Information Technology B\.Sc\. (with emphasis in Data Analysis)** | **UNIVESP** | **2600h** |
 
 <!-- 
 | LaTeX | SBM |  |
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h |
 | Estatística 3 | Prandiano | 66h |
+| Estatística e Otimização para Ciência de Dados e Pesquisa Operacional | USP | 60h |
 -->
 
 <!--
