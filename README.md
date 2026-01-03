@@ -18,7 +18,7 @@
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![95%](https://geps.dev/progress/95) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
-| Statistics 4 | Prandiano | 50h | ![30%](https://geps.dev/progress/30) |
+| Statistics IV |  | 50h | ![30%](https://geps.dev/progress/30) |
 | [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
 | Drones Piloting |  | - | - |
