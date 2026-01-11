@@ -11,7 +11,7 @@
 
 #### 🌱 Currently:
 
-<div align="center" width="85%">
+<div align="center" width="90%">
 
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
@@ -19,7 +19,7 @@
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
 | Statistics IV |  | 50h | ![30%](https://geps.dev/progress/30) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![48%](https://geps.dev/progress/48)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
 | Drones Piloting |  | - | - |
 
@@ -358,15 +358,17 @@ https://www.credly.com/users/cintia-shinoda
   <tr>
     <!-- Top Languages -->
     <td valign="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Languages" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintia-shinoda&theme=default&show_icons=true&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Languages" /> -->
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cintia-shinoda&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Languages" />
     </td>
     <!-- GitHub Contributions & Streak -->
+    <td align="center">
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" /> -->
     <td valign="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cintia-shinoda"/>
     </td>
   </tr>
 </table>
-
 
 <!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true)  -->
 
