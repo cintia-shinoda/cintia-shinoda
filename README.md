@@ -363,9 +363,9 @@ https://www.credly.com/users/cintia-shinoda
     </td>
     <!-- GitHub Contributions & Streak -->
     <td valign="center">
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" /> -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" />
       <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cintia-shinoda"/> -->
-      <img src="https://streak-stats.demolab.com/?user=cintia-shinoda&theme=default" alt="github-stats" />
+      <!-- <img src="https://streak-stats.demolab.com/?user=cintia-shinoda" alt="github-stats" /> -->
     </td>
   </tr>
 </table>
