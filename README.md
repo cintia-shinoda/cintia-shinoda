@@ -362,10 +362,10 @@ https://www.credly.com/users/cintia-shinoda
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cintia-shinoda&langs_count=10&hide=jupyter%20notebook,html,cmake,cython,powershell,shell,css" alt="Top Languages" />
     </td>
     <!-- GitHub Contributions & Streak -->
-    <td align="center">
-      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" /> -->
     <td valign="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cintia-shinoda"/>
+      <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cintia-shinoda" alt="github-stats" /> -->
+      <!-- <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=cintia-shinoda"/> -->
+      <img src="https://streak-stats.demolab.com/?user=cintia-shinoda&theme=default" alt="github-stats" />
     </td>
   </tr>
 </table>
