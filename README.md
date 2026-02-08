@@ -18,10 +18,13 @@
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![95%](https://geps.dev/progress/95) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
-| Statistics IV |  | 50h | ![30%](https://geps.dev/progress/30) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  | 315h | <ul><li>Level J: ![52%](https://geps.dev/progress/52)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| Statistics IV | Prandiano | 50h | ![40%](https://geps.dev/progress/40) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
-| Drones Piloting |  | - | - |
+| Agents | PUC | 30h | ![27%](https://geps.dev/progress/27) |
+| Verão LNCC 2026 | LNCC |  |  |
+| Internship |  | 100h |  |
+<!-- | Drones Piloting |  | - | - | -->
 
 </div>
 
@@ -70,19 +73,20 @@ https://www.credly.com/users/cintia-shinoda
 
 
 
-<!-- <h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications:</h3>
 
 <div align="center">
 
 | Certification | School/Institution |
 |:--------|:--------------------|
 | TOEFL (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
+| JLPT N5 (Japanese-Language Proficiency Test - Level N5) | Japan Foundation and Japan Educational Exchanges and Services |
 
 </div>
 
 <br>
 
---- -->
+---
 
 
 <h3 align="left">Tech Stack:</h3>
@@ -243,7 +247,7 @@ https://www.credly.com/users/cintia-shinoda
 <p>
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a>
-<a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a>
+<!-- <a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a> -->
 
 <br>
 
