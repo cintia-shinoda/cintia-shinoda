@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Cintia 😊</h2>
 
 
-#### 🎓 Education:
+#### Education:
 
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
@@ -9,7 +9,7 @@
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
-#### 🌱 Currently:
+#### Currently:
 
 <div align="center" width="90%">
 
@@ -18,22 +18,25 @@
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![95%](https://geps.dev/progress/95) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
-| Statistics IV | Prandiano | 50h | ![40%](https://geps.dev/progress/40) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![62%](https://geps.dev/progress/62)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
+| Statistics IV | Prandiano | 50h | ![50%](https://geps.dev/progress/50) |
+| [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
-| Agents | PUC | 30h | ![27%](https://geps.dev/progress/27) |
-| Verão LNCC 2026 | LNCC |  |  |
-| Internship |  | 100h |  |
+| Agents | PUC | 30h | ![53%](https://geps.dev/progress/53) |
+| Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) |
+| LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |
+
+<!-- | Verão LNCC 2026 | LNCC |  |  | -->
+<!-- | Internship |  | 100h |  | -->
 <!-- | Drones Piloting |  | - | - | -->
 
 </div>
 
 
-#### 👩🏻‍💻 Technical Proficiency:
+#### Technical Proficiency:
 Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
 
 
-#### 💻 Areas of Interest:
+#### Areas of Interest:
 Data Science · Artificial Intelligence · Blockchain · Drone · Photography · Statistics · Mathematics · Operations Research
 
 <br>
@@ -46,8 +49,11 @@ Data Science · Artificial Intelligence · Blockchain · Drone · Photography ·
 <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
 <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a>
+<!-- <a href="https://www.dinq.me/cintia/" target="blank"><img align="center" src="" alt="dinq"/</a> -->
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
+
 
 <!-- 
 AWS Skill Builder:
@@ -112,6 +118,8 @@ https://www.credly.com/users/cintia-shinoda
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
+<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a> -->
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 
@@ -148,25 +156,36 @@ https://www.credly.com/users/cintia-shinoda
 <a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift"/></a> -->
 
 
+<!-- CAD -->
+<!-- <p>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=fff&style=for-the-badge" alt="Tinkercad"></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/OpenSCAD-F9D72C?logo=openscad&logoColor=000&style=for-the-badge" alt="OpenSCAD"</a>
+</p> -->
+
+
+<!--  -->
+<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"/></a> -->
+
+
  <!-- Documentation -->
-<p>
+<!-- <p>
 <a href="https://daringfireball.net/projects/markdown/" target="blank"><img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/></a>
 <a href="https://www.latex-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX"/></a>
-<a href="https://www.uml.org/" target="blank"><img align="center" src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" alt="UML"/></a>
+<a href="https://www.uml.org/" target="blank"><img align="center" src="https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black" alt="UML"/></a> -->
 
 
 <!-- Version Control -->
-<p>
+<!-- <p>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
-<a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> -->
 
 <!-- Tests -->
-<p>
-<a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a>
+<!-- <p>
+<a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a> -->
 
 <!-- Continuous Integration / Continuous Deployment -->
-<p>
-<a href="https://github.com/features/actions" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions"/></a>
+<!-- <p>
+<a href="https://github.com/features/actions" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions"/></a> -->
 
 
 <!-- Cloud -->
@@ -183,10 +202,10 @@ https://www.credly.com/users/cintia-shinoda
 
 
 <!-- Deploy -->
-<p>
+<!-- <p>
 <a href="https://www.netlify.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify"/></a>
 <a href="https://render.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render"/></a>
-<a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/></a>
+<a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/></a> -->
 
 
 <!-- AI / LLM -->
@@ -384,6 +403,7 @@ https://www.credly.com/users/cintia-shinoda
 
 
 <!--
+🎓🌱👩🏻‍💻💻 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/cintia-shinoda)
