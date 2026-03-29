@@ -19,15 +19,18 @@
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
 | Statistics IV | Prandiano | 50h | ![50%](https://geps.dev/progress/50) |
-| [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> |
 | Agents | PUC | 30h | ![53%](https://geps.dev/progress/53) |
-| AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> |
-| Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) |
-| LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) | 
+
+
 
 <!-- 
 
--->
+<!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
+<!-- | Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) | -->
+
+<!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> | -->
+
+<!-- | LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
 <!-- | Verão LNCC 2026 | LNCC |  |  | -->
 <!-- | Internship |  | 100h |  | -->
@@ -310,25 +313,20 @@ https://www.credly.com/users/cintia-shinoda
 | Course | School/Institution | Workload |
 |--------|--------------------|----------|
 | Making Sense of Data | Google |  |
-| The Data Scientist's Toolbox | Johns Hopkins University | 18h |
 | Big Data and Social Physics | MIT |  |
-| **Software Development B.Tech** | **FIAP** | **2000h** |
 | Envisioning Big Data | FIAP | 20h |
 | Big Data Science - Machine Learning e Data Mining | FIAP | 32h |
-| **Artificial Intelligence & Machine Learning Specialization** | **FIAP** | **360h** |
 | Python e Orientação a Objetos | Caelum | 32h |
 | Big Data | Prandiano | 96h |
 | Blockchain | Prandiano | 48h |
 | Introdução à Computação para Bioinformática | UFMG | 40h |
 | [SAS for Beginners](https://www.credly.com/badges/945a215c-4bde-47e8-97b3-2718a897d315/public_url) | SAS |  |
 | [SAS Dev para iniciantes](https://www.credly.com/badges/42a1e766-c3c0-4eb5-a960-9fd52a1cb607/public_url) | SAS |  |
-| [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
 | PyChain | Prandiano | 30h |
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
-| [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** |
 | Brazilian Financial Market | PUC | 19h |
 | A Engenharia das Missões Espaciais | INPE | 23h |
-| **Information Technology B\.Sc\. (with emphasis in Data Analysis)** | **UNIVESP** | **2600h** |
+
 
 <!-- 
 | LaTeX | SBM |  |
@@ -338,11 +336,19 @@ https://www.credly.com/users/cintia-shinoda
 | Estatística e Otimização para Ciência de Dados e Pesquisa Operacional | USP | 60h |
 -->
 
+
+<!-- | **Software Development B.Tech** | **FIAP** | **2000h** | -->
+<!-- | **Artificial Intelligence & Machine Learning Specialization** | **FIAP** | **360h** | -->
+<!-- | [**Applied Mathematical Methods Specialization**](https://github.com/cintia-shinoda/utfpr_emma) | **UTFPR** | **420h** | -->
+<!-- | **Information Technology B\.Sc\. (with emphasis in Data Analysis)** | **UNIVESP** | **2600h** | -->
+
+
 <!--
 | Introdução à Lógica de Programação | Impacta | 40h |
 | Introdução à Lógica de Programação Orientada a Objetos | Impacta | 16h |
 | Introdução à Física Quântica | b_arco | 12h |
 | Adobe Illustrator | Cadritech | 32h |
+| The Data Scientist's Toolbox | Johns Hopkins University | 18h |
 | Internet History, Technology, and Security | University of Michigan | 15h |
 | Introduction to HTML5 | University of Michigan | 13h |
 | WordPress for Beginners | Udemy |  |
@@ -364,6 +370,7 @@ https://www.credly.com/users/cintia-shinoda
 | [Data Manipulation with Pandas](https://github.com/cintia-shinoda/python/blob/main/02-Datacamp-Python/03-Data-Manipulation-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Joining Data with Pandas](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/04-Joining-Data-Pandas/certificate.pdf) | DataCamp | 4h |
 | [Introduction to Data Visualization with Seaborn](https://github.com/cintia-shinoda/python/tree/main/02-Datacamp-Python/05-Intro-Data-Viz-Seaborn/certificate.pdf) | DataCamp | 4h |
+| [Data Science e Machine Learning com Linguagem Julia](https://github.com/cintia-shinoda/formacao-eng-blockchain/blob/master/0-Modulos-Extras-Capacitacao-Profissional/09-DS-ML-com-Julia/certificate.pdf) | DSA | 8h |
 | Computação Quântica: Primeiros Passos para a Programação | NIC / CGI | 3h |
 -->
 
