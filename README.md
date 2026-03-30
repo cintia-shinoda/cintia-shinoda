@@ -1,4 +1,6 @@
-<h2 align="center">Hi there, I'm Cintia 😊</h2>
+<h2 align="center">Cintia I. Shinoda</h2>
+
+<p align="center">Python | R | SQL | Software Development | Data Analysis | Modeling | Automation</p>
 
 ### Featured Projects
 #### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
@@ -16,7 +18,9 @@ NLP pipeline for processing and analyzing Brazilian legislative discourses. `Pyt
 #### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
-<br>  
+
+<br>
+
   - Diabetes Predictive Model for Central Nacional Unimed - CNU
   `SQL` `PL-SQL` `Predictive Modeling`
 
@@ -66,8 +70,8 @@ Analytics Analysis
 </div>
 
 
-#### Technical Proficiency:
-Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation
+<!-- #### Technical Proficiency:
+Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation -->
 
 
 #### Areas of Interest:
@@ -130,8 +134,10 @@ https://www.credly.com/users/cintia-shinoda
 --- 
 -->
 
-
-<h3 align="left">Tech Stack:</h3>
+<table>
+  <tr>
+  <td valign="center" style="width:75%">
+    <h3 align="left">Tech Stack:</h3>
 
 <!-- Databases -->
 <p>
@@ -307,15 +313,10 @@ https://www.credly.com/users/cintia-shinoda
 <a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a> -->
 <!-- <a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a> -->
 
-<br>
+  </td>
 
-----
-
-
-
+  <td valign="center" style="width:25%">
 <h3 align="left">Languages:</h3>
-
-<div align="center">
 
 | Language | Proficiency |
 |:--------|:------------:|
@@ -323,8 +324,9 @@ https://www.credly.com/users/cintia-shinoda
 | 🇺🇸 English | Advanced |
 | 🇯🇵 Japanese | Beginner |
 | 🇫🇷 French | Beginner |
-
-</div>
+  </td>
+</tr>
+</table>
 
 <br>
 
