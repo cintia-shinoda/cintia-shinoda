@@ -1,5 +1,32 @@
 <h2 align="center">Hi there, I'm Cintia 😊</h2>
 
+### Featured Projects
+#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
+Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
+
+<br>
+
+#### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
+NLP pipeline for processing and analyzing Brazilian legislative discourses. `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
+
+---
+
+
+### Professional Background
+#### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
+  - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
+  `SQL` `SQL Server` `Database Modeling` `Data Analysis`
+<br>  
+  - Diabetes Predictive Model for Central Nacional Unimed - CNU
+  `SQL` `PL-SQL` `Predictive Modeling`
+
+<br>
+
+#### HandsOn\.TV - Mountain View - California - USA
+Analytics Analysis 
+`Analytics` `Data Analysis` `Data Visualization`
+
+---
 
 #### Education:
 
@@ -286,26 +313,27 @@ https://www.credly.com/users/cintia-shinoda
 
 
 
-<!-- <h3 align="left">Languages:</h3>
+<h3 align="left">Languages:</h3>
 
 <div align="center">
 
 | Language | Proficiency |
 |:--------|:------------:|
-| Portuguese | Native |
-| English | Advanced |
-| Japanese | Beginner |
-| French | Basic |
+| 🇧🇷 Portuguese | Native |
+| 🇺🇸 English | Advanced |
+| 🇯🇵 Japanese | Beginner |
+| 🇫🇷 French | Beginner |
 
 </div>
 
 <br>
 
------ -->
+<!--
+-----
 
 
 
-<h3 align="left">Courses:</h3>
+ <h3 align="left">Courses:</h3>
 
 <details>
 <summary>Courses List</summary>
@@ -325,7 +353,7 @@ https://www.credly.com/users/cintia-shinoda
 | PyChain | Prandiano | 30h |
 | [SAS Studio e SAS Visual Analytics](https://github.com/cintia-shinoda/sas/blob/main/03-SAS-Studio-SAS-Visual-Analytics/certificado-sas.pdf) | SAS | 12h |
 | Brazilian Financial Market | PUC | 19h |
-| A Engenharia das Missões Espaciais | INPE | 23h |
+| A Engenharia das Missões Espaciais | INPE | 23h | -->
 
 
 <!-- 
