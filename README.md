@@ -1,17 +1,17 @@
-<h2 align="center">Cintia I. Shinoda</h2>
+<h1 align="center">Cintia I. Shinoda</h1>
 
 <p align="center">Python | R | SQL | Software Development | Data Analysis | Modeling | Automation</p>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
 <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
-<a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
-<a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
+<a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a>
-<!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a> -->
-<!-- <a href="https://www.dinq.me/cintia/" target="blank"><img align="center" src="" alt="dinq"/</a> -->
+<a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a>
+<a href="https://t.me/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram"/></a>
+<!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
+<!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
 
@@ -34,21 +34,26 @@ Credly:
 https://www.credly.com/users/cintia-shinoda
 -->
 
+<br>
 
-### Featured Projects
-#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
+---
+
+
+
+## Featured Projects
+### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
 Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
 
 <br>
 
-#### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
+### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
 NLP pipeline for processing and analyzing Brazilian legislative discourses. `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
 
 ---
 
 
-### Professional Background
-#### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
+## Professional Background
+### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
 
@@ -59,13 +64,13 @@ NLP pipeline for processing and analyzing Brazilian legislative discourses. `Pyt
 
 <br>
 
-#### HandsOn\.TV - Mountain View - California - USA
+### HandsOn\.TV - Mountain View - California - USA
 Analytics Analysis 
 `Analytics` `Data Analysis` `Data Visualization`
 
 ---
 
-#### Education:
+## Education:
 
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
@@ -73,7 +78,7 @@ Analytics Analysis
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
-#### Currently:
+## Currently:
 
 <div align="center" width="90%">
 
@@ -110,8 +115,6 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 <br>
 
-
-
 -----
 
 
@@ -136,7 +139,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <table>
   <tr>
   <td valign="center" style="width:75%">
-    <h3 align="left">Tech Stack:</h3>
+    <h2 align="left">Tech Stack:</h2>
 
 <!-- Databases -->
 <p>
@@ -145,8 +148,8 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB"/></a>
 <a href="https://duckdb.org/" target="blank"><img align="center" src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=for-the-badge" alt="DuckDB"/></a>
 <!-- <a href="https://www.postgresql.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" alt="PostgreSQL"/></a> -->
-<!-- <a href="https://arangodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ArangoDB-DDDF72?logo=arangodb&logoColor=000&style=for-the-badge" alt="ArangoDB"/></a> -->
 <!-- <a href="https://neo4j.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" alt="neo4j"/></a> -->
+<!-- <a href="https://arangodb.com/" target="blank"><img align="center" src="https://img.shields.io/badge/ArangoDB-DDDF72?logo=arangodb&logoColor=000&style=for-the-badge" alt="ArangoDB"/></a> -->
 
 
 
@@ -160,31 +163,20 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a>
-<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
+<a href="https://python-visualization.github.io/folium/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a>
+<a href="https://geopandas.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas"/></a>
+<a href="https://pola.rs/" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a>
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
+<!-- <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
 
 
-<!-- Quantum -->
-<!-- <p>
-<a href="https://www.ibm.com/quantum/qiskit" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
 
-
-<!--  -->
-<!-- <a href="" target="blank"><img align="center" src="" alt="Matlab"/></a> -->
+<!-- R -->
 <p>
 <a href="https://www.r-project.org/" target="blank"><img align="center" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/></a>
-<a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="tidyverse"/></a>
-<!-- <a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a> -->
+<a href="https://www.tidyverse.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Tidyverse-1A162D.svg?style=for-the-badge&logo=Tidyverse&logoColor=white" alt="Tidyverse"/></a>
 
-
-
-<!-- Spatial Software / Geo -->
-<!-- <p>
-<a href="https://qgis.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
 
 
 <!-- Data Viz -->
@@ -193,22 +185,59 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://lookerstudio.google.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white" alt="Looker"/></a>
 
 
+
+<!-- CAD -->
+<!-- 
+<p>
+<a href="https://www.tinkercad.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=fff&style=for-the-badge" alt="Tinkercad"></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/OpenSCAD-F9D72C?logo=openscad&logoColor=000&style=for-the-badge" alt="OpenSCAD"</a>
+ -->
+
+
+
+<!-- Microelectronics / Robotics -->
+<!-- <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"/></a> -->
+<!-- <a href="https://www.ros.org/" target="blank"><img align="center" src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge" alt="ROS"/></a> -->
+
+
+
+<!-- AI / LLM -->
+<!-- <p>
+<a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
+<a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
+<a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
+<a href="https://www.deepseek.com/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" alt="Deepseek"/></a>
+<a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
+<a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a> -->
+
+<!--
+<p>
+<a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
+<a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
+<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
+<!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
+
+
+<!-- Spatial Software / Geo -->
+<!-- <p>
+<a href="https://qgis.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white" alt="QGIS"/></a> -->
+
+
+<!--  -->
+<!-- <p>
+<a href="https://julialang.org" target="blank"><img align="center" src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" alt="Julia"/></a> -->
+
+
+<!-- Quantum -->
+<!-- <p>
+<a href="https://www.ibm.com/quantum/qiskit" target="blank"><img align="center" src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=for-the-badge" alt="Qiskit"/></a> -->
+
+
 <!-- Mobile -->
 <!-- <p>
 <a href="https://dart.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=for-the-badge" alt="Dart"/></a>
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge" alt="Flutter"/></a>
 <a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" alt="Swift"/></a> -->
-
-
-<!-- CAD -->
-<!-- <p>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=fff&style=for-the-badge" alt="Tinkercad"></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/OpenSCAD-F9D72C?logo=openscad&logoColor=000&style=for-the-badge" alt="OpenSCAD"</a>
-</p> -->
-
-
-<!--  -->
-<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"/></a> -->
 
 
  <!-- Documentation -->
@@ -223,9 +252,11 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
 <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> -->
 
+
 <!-- Tests -->
 <!-- <p>
 <a href="https://www.postman.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/></a> -->
+
 
 <!-- Continuous Integration / Continuous Deployment -->
 <!-- <p>
@@ -252,22 +283,6 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel"/></a> -->
 
 
-<!-- AI / LLM -->
-<!-- <p>
-<a href="https://openai.com/index/chatgpt/" target="blank"><img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/></a>
-<a href="https://www.perplexity.ai/" target="blank"><img align="center" src="https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/></a>
-<a href="https://deepmind.google/technologies/gemini/" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/></a>
-<a href="https://www.deepseek.com/" target="blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=white&style=for-the-badge" alt="Deepseek"/></a>
-<a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
-<a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a> -->
-
-<p>
-<!-- <a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
-<a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
-<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
-<!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
-
-
 <!-- Web & Design -->
 <!-- <p>
 <a href="https://html.spec.whatwg.org/" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
@@ -275,13 +290,11 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://www.adobe.com/products/illustrator.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/></a> -->
 
 
-
 <!-- Crypto -->
 <!-- <p>
 <a href="bitcoin:bc1qw0803jzllhy5k2z0xuykrn4g64fs5z4044z4xe" target="_blank"><img align="center" src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge" alt="bitcoin"/></a>
 <a href="bitcoincash:qqtykzkls474eequ7pded9p60ttrsj644gwg7wxlcn" target="_blank"><img align="center" src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff&style=for-the-badge" alt="bitcoin-cash"/></a>
 <a href="ethereum:0x1D2E8DBDC05ACC12d760B515093C992e0dCec386" target="_blank"><img align="center" src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge" alt="ethereum"/></a> -->
-
 
 
 <!-- IDE -->
@@ -315,7 +328,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
   </td>
 
   <td valign="center" style="width:25%">
-<h3 align="left">Languages:</h3>
+<h2 align="center">Languages:</h2>
 
 | Language | Proficiency |
 |:--------|:------------:|
@@ -329,8 +342,8 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 <br>
 
-#### Areas of Interest:
-Data Science · Artificial Intelligence · Blockchain · Drone · Photography · Statistics · Mathematics · Operations Research
+## Areas of Interest:
+<p align="center">Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research</p>
 
 <!--
 -----
@@ -414,7 +427,7 @@ Data Science · Artificial Intelligence · Blockchain · Drone · Photography ·
 
 
 
-<h3 align="left">GitHub Stats:</h3>
+<h2 align="left">GitHub Stats:</h2>
 
 <!-- Shields -->
 <p align="center">
