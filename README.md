@@ -1,8 +1,8 @@
-<h1 align="center">Cintia I. Shinoda</h1>
+<h2 align="center">Cintia I. Shinoda</h2>
 
 <p align="center">Python | R | SQL | Software Development | Data Analysis | Modeling | Automation</p>
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
 <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
@@ -40,20 +40,20 @@ https://www.credly.com/users/cintia-shinoda
 
 
 
-## Featured Projects
-### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
+### Featured Projects
+#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
 Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
 
 <br>
 
-### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
+#### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
 NLP pipeline for processing and analyzing Brazilian legislative discourses. `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
 
 ---
 
 
-## Professional Background
-### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
+### Professional Background
+#### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
 
@@ -64,13 +64,13 @@ NLP pipeline for processing and analyzing Brazilian legislative discourses. `Pyt
 
 <br>
 
-### HandsOn\.TV - Mountain View - California - USA
+#### HandsOn\.TV - Mountain View - California - USA
 Analytics Analysis 
 `Analytics` `Data Analysis` `Data Visualization`
 
 ---
 
-## Education:
+### Education:
 
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
@@ -78,7 +78,7 @@ Analytics Analysis
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
-## Currently:
+### Currently:
 
 <div align="center" width="90%">
 
@@ -328,7 +328,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
   </td>
 
   <td valign="center" style="width:25%">
-<h2 align="center">Languages:</h2>
+<h3 align="center">Languages:</h3>
 
 | Language | Proficiency |
 |:--------|:------------:|
@@ -342,7 +342,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 <br>
 
-## Areas of Interest:
+#### Areas of Interest:
 <p align="center">Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research</p>
 
 <!--
@@ -427,7 +427,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 
 
-<h2 align="left">GitHub Stats:</h2>
+<h3 align="left">GitHub Stats:</h3>
 
 <!-- Shields -->
 <p align="center">
