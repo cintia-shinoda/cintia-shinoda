@@ -2,6 +2,39 @@
 
 <p align="center">Python | R | SQL | Software Development | Data Analysis | Modeling | Automation</p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
+<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
+<a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
+<a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
+<a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a>
+<!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a> -->
+<!-- <a href="https://www.dinq.me/cintia/" target="blank"><img align="center" src="" alt="dinq"/</a> -->
+<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
+<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
+
+
+<!-- 
+AWS Skill Builder:
+https://skillsprofile.skillbuilder.aws/user/cintia 
+
+Google Skills:
+https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10
+
+Microsoft Learn:
+https://learn.microsoft.com/pt-br/users/cintiashinoda/
+
+IBM SkillsBuild:
+databricks:
+Nvidia:
+
+Credly:
+https://www.credly.com/users/cintia-shinoda
+-->
+
+
 ### Featured Projects
 #### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
 Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
@@ -47,19 +80,21 @@ Analytics Analysis
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![97.71%](https://geps.dev/progress/97.71) |
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![30%](https://geps.dev/progress/30) |
-| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![17%](https://geps.dev/progress/17) |
-| Statistics IV | Prandiano | 50h | ![50%](https://geps.dev/progress/50) |
-| Agents | PUC | 30h | ![53%](https://geps.dev/progress/53) |
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
+| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![25%](https://geps.dev/progress/25) |
+| Statistics IV | Prandiano | 50h | ![60%](https://geps.dev/progress/60) |
+| Agents | PUC | 30h | ![73%](https://geps.dev/progress/73) |
 
 
 
 <!-- 
 
 <!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
+
 <!-- | Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) | -->
 
 <!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> | -->
+
 
 <!-- | LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
@@ -73,45 +108,9 @@ Analytics Analysis
 <!-- #### Technical Proficiency:
 Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automation -->
 
-
-#### Areas of Interest:
-Data Science · Artificial Intelligence · Blockchain · Drone · Photography · Statistics · Mathematics · Operations Research
-
 <br>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin"/></a>
-<a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"/></a>
-<a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/></a>
-<a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="discord"></a>
-<a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a>
-<!-- <a href="https://www.dinq.me/cintia/" target="blank"><img align="center" src="" alt="dinq"/</a> -->
-<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
-<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/></a> -->
-
-
-<!-- 
-AWS Skill Builder:
-https://skillsprofile.skillbuilder.aws/user/cintia 
-
-Google Skills:
-https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10
-
-Microsoft Learn:
-https://learn.microsoft.com/pt-br/users/cintiashinoda/
-
-IBM SkillsBuild:
-databricks:
-Nvidia:
-
-Credly:
-https://www.credly.com/users/cintia-shinoda
--->
-
-<br>
 
 -----
 
@@ -163,8 +162,8 @@ https://www.credly.com/users/cintia-shinoda
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a>
 <!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
-<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a> -->
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 
@@ -329,6 +328,9 @@ https://www.credly.com/users/cintia-shinoda
 </table>
 
 <br>
+
+#### Areas of Interest:
+Data Science · Artificial Intelligence · Blockchain · Drone · Photography · Statistics · Mathematics · Operations Research
 
 <!--
 -----
