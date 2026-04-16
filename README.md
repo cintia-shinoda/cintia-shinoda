@@ -177,7 +177,7 @@ Analytics Analysis
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![100%](https://geps.dev/progress/100) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![50%](https://geps.dev/progress/50) |
-| Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) |
+<!-- | Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) | -->
 
 
 
