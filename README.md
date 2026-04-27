@@ -1,6 +1,6 @@
 <h2 align="center">Cintia I. Shinoda</h2>
 
-<p align="center">Python | R | SQL | Software Development | Data Analysis | Modeling | Automation</p>
+<p align="center">Python | SQL | Software Development | Data Analysis | Modeling | Automation</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -9,10 +9,10 @@
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a>
-<a href="https://t.me/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram"/></a>
+<a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a>
+<!-- <a href="https://t.me/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram"/></a> -->
 <!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
 <!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
-<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
 
 
@@ -41,7 +41,7 @@ https://www.credly.com/users/cintia-shinoda
 
 
 ### Featured Projects
-#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/tcc-lab)
+#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
 Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
 
 <br>
@@ -78,7 +78,7 @@ Analytics Analysis
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
-### Currently:
+### Ongoing:
 
 <div align="center" width="90%">
 
@@ -86,7 +86,7 @@ Analytics Analysis
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![97.71%](https://geps.dev/progress/97.71) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
-| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![25%](https://geps.dev/progress/25) |
+| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![33%](https://geps.dev/progress/33) |
 | Statistics IV | Prandiano | 50h | ![60%](https://geps.dev/progress/60) |
 | Agents | PUC | 30h | ![73%](https://geps.dev/progress/73) |
 
@@ -98,14 +98,27 @@ Analytics Analysis
 
 <!-- | Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) | -->
 
-<!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level J: ![86%](https://geps.dev/progress/86)</li><li>Overall progress: ![80%](https://geps.dev/progress/80)</li></ul> | -->
+<!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level K: ![0%](https://geps.dev/progress/0)</li><li>Overall progress: ![87%](https://geps.dev/progress/87)</li></ul> | -->
 
 
 <!-- | LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
+
+<!-- 
+| LaTeX | SBM |  |
+| Estatística 1 | Prandiano | 72h |
+| Estatística 2 | Prandiano | 66h |
+| Estatística 3 | Prandiano | 66h |
+| Estatística e Otimização para Ciência de Dados e Pesquisa Operacional | USP | 60h |
+-->
+
+
 <!-- | Verão LNCC 2026 | LNCC |  |  | -->
 <!-- | Internship |  | 100h |  | -->
 <!-- | Drones Piloting |  | - | - | -->
+
+
+
 
 </div>
 
@@ -156,8 +169,9 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <!-- Python -->
 <p>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
-<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
 <a href="https://numpy.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/></a>
+<a href="https://pandas.pydata.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://pola.rs/" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a>
 <a href="https://matplotlib.org/" target="blank"><img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/></a>
 <a href="https://plotly.com/python/" target="blank"><img align="center" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"alt="Plotly"/></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
@@ -165,11 +179,15 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
 <a href="https://python-visualization.github.io/folium/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a>
 <a href="https://geopandas.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas"/></a>
-<a href="https://pola.rs/" target="blank"><img align="center" src="https://img.shields.io/badge/Polars-0075FF?logo=polars&logoColor=fff&style=for-the-badge" alt="Polars"/></a>
+<a href="https://networkx.org/en/" target="blank"><img align="center" src="https://img.shields.io/badge/networkx-%230072C6.svg?style=for-the-badge&logo=networkx&logoColor="white" alt="NetworkX"/></a>
+<a href="https://seaborn.pydata.org/" target=blank"><img align="center" src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=seaborn&logoColor="white" alt="Seaborn"/></a>
+<a href="https://www.nltk.org/" target="blank"><img align="center" src="https://img.shields.io/badge/NLTK-%232E6295.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/></a>
+<a href="https://spacy.io/" target="blank"><img align="center" src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/></a>
+<a href="https://huggingface.co/docs/transformers/en/index" target="blank"><img align="center" src="https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a>
+<a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-%235C5C5C.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 <!-- <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
-
 
 
 <!-- R -->
@@ -334,7 +352,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 |:--------|:------------:|
 | 🇧🇷 Portuguese | Native |
 | 🇺🇸 English | Advanced |
-| 🇯🇵 Japanese | Beginner |
+| 🇯🇵 Japanese | Beginner (JLPT N5) |
 | 🇫🇷 French | Beginner |
   </td>
 </tr>
