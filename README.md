@@ -1,6 +1,18 @@
 <h2 align="center">Cintia I. Shinoda</h2>
 
-<p align="center">Python | SQL | Software Development | Data Analysis | Modeling | Automation</p>
+<!-- <p align="center">Python | SQL | Software Development | Data Analysis | Data Science | AI Engineering</p> -->
+
+<p align="center">Data Scientist · Database Dev · Machine Learning</p>
+
+<!--
+<br>
+
+Data Scientist operating at the intersection of Graph Theory, Applied Machine Learning, and Database Systems. 
+Builds end-to-end pipelines from data modeling to production, combining Network Analysis, Predictive Modeling, and NLP across domains such as urban infrastructure, healthcare, and the public sector.
+
+Currently deepening expertise in Robotics (UFV), Advanced Python (UTFPR), and AI Agents (PUC-Rio), with a focus on system design, reliability, and applied intelligence. 
+
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -8,8 +20,8 @@
 <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a>
-<a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a>
+<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
+<!-- <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a> -->
 <!-- <a href="https://t.me/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram"/></a> -->
 <!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
 <!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
@@ -42,7 +54,10 @@ https://www.credly.com/users/cintia-shinoda
 
 ### Featured Projects
 #### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
-Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
+Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. 
+
+[![Dataset](https://img.shields.io/badge/huggingface_Dataset-21.9k_rows,_38_downloads-yellow)](https://huggingface.co/datasets/cintia-shinoda/sp-transit-network-centrality) [![Model](https://img.shields.io/badge/huggingface_Model-Tabular_Classifier-blue)](https://huggingface.co/cintia-shinoda/sp-transit-node-classifier) [![Space](https://img.shields.io/badge/huggingface_Space-Interactive_App-green)](https://huggingface.co/spaces/cintia-shinoda/sp-transit-explorer)
+`Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
 
 <br>
 
@@ -361,8 +376,9 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <br>
 
 #### Areas of Interest:
-<p align="center">Data Science · Artificial Intelligence · Blockchain · Drones · Photography · Statistics · Mathematics · Operations Research</p>
+<p align="center">Data Science · Artificial Intelligence · Operations Research · Robotics </p>
 
+<!-- · Statistics · Mathematics · Blockchain · Photography · Drones·  -->
 <!--
 -----
 
