@@ -63,7 +63,9 @@ Analysis of São Paulo's public transit network vulnerability and resilience usi
 <br>
 
 #### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
-NLP pipeline for processing and analyzing Brazilian legislative discourses. `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
+NLP pipeline for processing and analyzing Brazilian legislative discourses. 
+
+`Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
 
 ---
 
@@ -71,17 +73,20 @@ NLP pipeline for processing and analyzing Brazilian legislative discourses. `Pyt
 ### Professional Background
 #### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
+  
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
 
 <br>
 
   - Diabetes Predictive Model for Central Nacional Unimed - CNU
+  
   `SQL` `PL-SQL` `Predictive Modeling`
 
 <br>
 
 #### HandsOn\.TV - Mountain View - California - USA
 Analytics Analysis 
+
 `Analytics` `Data Analysis` `Excel` `Data Visualization`
 
 ---
