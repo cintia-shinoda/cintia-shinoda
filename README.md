@@ -56,7 +56,8 @@ https://www.credly.com/users/cintia-shinoda
 #### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
 Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. 
 
-[![Dataset](https://img.shields.io/badge/huggingface_Dataset-21.9k_rows,_38_downloads-yellow)](https://huggingface.co/datasets/cintia-shinoda/sp-transit-network-centrality) [![Model](https://img.shields.io/badge/huggingface_Model-Tabular_Classifier-blue)](https://huggingface.co/cintia-shinoda/sp-transit-node-classifier) [![Space](https://img.shields.io/badge/huggingface_Space-Interactive_App-green)](https://huggingface.co/spaces/cintia-shinoda/sp-transit-explorer)
+[![Dataset](https://img.shields.io/badge/huggingface_Dataset-21.9k_rows,_41_downloads-yellow)](https://huggingface.co/datasets/cintia-shinoda/sp-transit-network-centrality) [![Model](https://img.shields.io/badge/huggingface_Model-Tabular_Classifier-blue)](https://huggingface.co/cintia-shinoda/sp-transit-node-classifier) [![Space](https://img.shields.io/badge/huggingface_Space-Interactive_App-green)](https://huggingface.co/spaces/cintia-shinoda/sp-transit-explorer)
+
 `Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
 
 <br>
@@ -81,7 +82,7 @@ NLP pipeline for processing and analyzing Brazilian legislative discourses. `Pyt
 
 #### HandsOn\.TV - Mountain View - California - USA
 Analytics Analysis 
-`Analytics` `Data Analysis` `Data Visualization`
+`Analytics` `Data Analysis` `Excel` `Data Visualization`
 
 ---
 
