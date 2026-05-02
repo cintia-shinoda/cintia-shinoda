@@ -205,7 +205,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://www.nltk.org/" target="blank"><img align="center" src="https://img.shields.io/badge/NLTK-%232E6295.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/></a>
 <a href="https://spacy.io/" target="blank"><img align="center" src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/></a>
 <a href="https://huggingface.co/docs/transformers/en/index" target="blank"><img align="center" src="https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a>
-<a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-%235C5C5C.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 <!-- <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
