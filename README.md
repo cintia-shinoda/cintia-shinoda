@@ -1,4 +1,4 @@
-<h1 align="center">Cintia I. Shinoda</h1>
+<h2 align="center">Hey! I'm Cintia I. Shinoda</h2>
 
 <!-- <p align="center">Python | SQL | Software Development | Data Analysis | Data Science | AI Engineering</p> -->
 
