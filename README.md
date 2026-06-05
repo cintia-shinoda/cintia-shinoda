@@ -4,47 +4,38 @@
 
 <p align="center">Data Scientist · Database Dev · Machine Learning</p>
 
-<!--
-<br>
-
-Data Scientist operating at the intersection of Graph Theory, Applied Machine Learning, and Database Systems. 
-Builds end-to-end pipelines from data modeling to production, combining Network Analysis, Predictive Modeling, and NLP across domains such as urban infrastructure, healthcare, and the public sector.
-
-Currently deepening expertise in Robotics (UFV), Advanced Python (UTFPR), and AI Agents (PUC-Rio), with a focus on system design, reliability, and applied intelligence. 
-
-</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-<a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
+<a href="https://huggingface.co/cintia-shinoda" 
+target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
-<!-- <a href="https://discordapp.com/users/695424145944739982" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord"></a> -->
-<!-- <a href="https://t.me/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram"/></a> -->
 <!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
+<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
+
+
 <!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
 
 
 <!-- 
-AWS Skill Builder:
-https://skillsprofile.skillbuilder.aws/user/cintia 
+<a href="https://skillsprofile.skillbuilder.aws/user/cintia" target="blank"><img align="center" src="https://img.shields.io/badge/AWS Skill%20Builder-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a> 
+<a href="https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Skills-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Skills"/></a>
+<a href="https://learn.microsoft.com/pt-br/users/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/></a>
 
-Google Skills:
-https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10
 
-Microsoft Learn:
-https://learn.microsoft.com/pt-br/users/cintiashinoda/
+<a href="" target="blank"><img align="center" src="" alt="IBM SkillsBuild"/></a>
+<a href="" target="blank"><img align="center" src="" alt="databricks"/></a>
+<a href="" target="blank"><img align="center" src="" alt="Nvidia"/></a>
+<a href="" target="blank"><img align="center" src="" alt=""/></a>
 
-IBM SkillsBuild:
-databricks:
-Nvidia:
 
-Credly:
-https://www.credly.com/users/cintia-shinoda
--->
+<a href="https://www.credly.com/users/cintia-shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=for-the-badge" alt=""/></a>
+
+ -->
+
 
 <br>
 
@@ -53,19 +44,48 @@ https://www.credly.com/users/cintia-shinoda
 
 
 ### Featured Projects
+
 #### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
-Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency. 
 
-[![Dataset](https://img.shields.io/badge/huggingface_Dataset-21.9k_rows,_41_downloads-yellow)](https://huggingface.co/datasets/cintia-shinoda/sp-transit-network-centrality) [![Model](https://img.shields.io/badge/huggingface_Model-Tabular_Classifier-blue)](https://huggingface.co/cintia-shinoda/sp-transit-node-classifier) [![Space](https://img.shields.io/badge/huggingface_Space-Interactive_App-green)](https://huggingface.co/spaces/cintia-shinoda/sp-transit-explorer)
+<table>
+  <tr>
+    <td valign="center" style="width:40%">
+      <img src="https://github.com/cintia-shinoda/public-transit-graph-theory/blob/main/outputs/mapa_paradas_modal_sp_rmsp.png?raw=true" alt="Map of the top 10 critical nodes according to degree, betweenness and closeness centrality metrics" width="100%">
+    </td>
+    <td valign="center" style="width:60%">
+      <p>Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency.</p>
 
-`Python` `NetworkX` `Folium` `Geopandas` `Pandas` `GTFS` `Graph Theory` `Network Science`
+`Python` `NetworkX` `Geopandas` `SciPy` `cKDTree` `pyarrow` `GTFS` `Graph Theory` `Network Science`
+
+<div align="center">
+
+[![Dataset](https://img.shields.io/badge/huggingface_Dataset-21.9k_rows,_38_downloads-yellow)](https://huggingface.co/datasets/cintia-shinoda/sp-transit-network-centrality) [![Model](https://img.shields.io/badge/huggingface_Model-Tabular_Classifier-blue)](https://huggingface.co/cintia-shinoda/sp-transit-node-classifier) [![Space](https://img.shields.io/badge/huggingface_Space-Interactive_App-green)](https://huggingface.co/spaces/cintia-shinoda/sp-transit-explorer)
+
+</div>
+
+  </td>
+  </tr>
+</table>
+
+
 
 <br>
 
 #### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
-NLP pipeline for processing and analyzing Brazilian legislative discourses. 
 
-`Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
+
+<table>
+  <tr>
+    <td valign="center" style="width:40%">
+      <img src="https://github.com/cintia-shinoda/legislative-nlp-pipeline/blob/main/images/2.png?raw=true" alt="topic x sentiment Heatmap" width="100%">
+    </td>
+    <td valign="center" style="width:60%">
+      <p>NLP pipeline for processing and analyzing Brazilian legislative discourses. The pipeline includes data collection, preprocessing, sentiment analysis, topic modeling, text summarization, and data visualization.</p>
+
+  `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
+    </td>
+  </tr>
+</table>
 
 ---
 
