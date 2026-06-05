@@ -1,11 +1,11 @@
-<h2 align="center">Cintia I. Shinoda</h2>
+<h1 align="center">Cintia I. Shinoda</h1>
 
 <!-- <p align="center">Python | SQL | Software Development | Data Analysis | Data Science | AI Engineering</p> -->
 
 <p align="center">Data Scientist · Database Dev · Machine Learning</p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
 <a href="https://huggingface.co/cintia-shinoda" 
@@ -43,9 +43,9 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 
 
 
-### Featured Projects
+## Featured Projects
 
-#### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
+### [São Paulo's Transit Network Vulnerability and Resilience Analysis](https://github.com/cintia-shinoda/public-transit-graph-theory)
 
 <table>
   <tr>
@@ -71,7 +71,7 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 
 <br>
 
-#### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
+### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
 
 
 <table>
@@ -90,8 +90,8 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 ---
 
 
-### Professional Background
-#### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
+## Professional Background
+### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
   
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
@@ -104,14 +104,14 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 
 <br>
 
-#### HandsOn\.TV - Mountain View - California - USA
+### HandsOn\.TV - Mountain View - California - USA
 Analytics Analysis 
 
 `Analytics` `Data Analysis` `Excel` `Data Visualization`
 
 ---
 
-### Education:
+## Education:
 
 - Software Development, B.Tech
 - Artificial Intelligence and Machine Learning, Specialization
@@ -119,7 +119,7 @@ Analytics Analysis
 - Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
 
 
-### Ongoing:
+## Ongoing:
 
 <div align="center" width="90%">
 
@@ -387,7 +387,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
   </td>
 
   <td valign="center" style="width:25%">
-<h3 align="center">Languages:</h3>
+<h2 align="center">Languages:</h2>
 
 | Language | Proficiency |
 |:--------|:------------:|
@@ -487,7 +487,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 
 
-<h3 align="left">GitHub Stats:</h3>
+<h2 align="left">GitHub Stats:</h2>
 
 <!-- Shields -->
 <p align="center">
