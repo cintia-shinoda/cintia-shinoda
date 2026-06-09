@@ -12,6 +12,9 @@
 target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
 <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
+
+
 <!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 
@@ -64,6 +67,26 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 </div>
 
   </td>
+  </tr>
+</table>
+
+
+
+<br>
+
+### [Astronomia RAG](https://github.com/cintia-shinoda/astronomia-rag)
+
+
+<table>
+  <tr>
+    <td valign="center" style="width:40%">
+      <img src="https://github.com/cintia-shinoda/astronomia-rag/blob/main/web-interface.png?raw=true" alt="Demo CLI" width="100%">
+    </td>
+    <td valign="center" style="width:60%">
+      <p>Astronomia RAG is a Retrieval-Augmented Generation (RAG)-based question-and-answer (FAQ) system focused on Observational Astronomy.</p>
+
+  `RAG` `LLM` `Astronomy` `FAISS` `LangChain` `Mistral 7B Instruct` `Python`
+    </td>
   </tr>
 </table>
 
@@ -218,7 +241,6 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://streamlit.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
 <a href="https://scikit-learn.org/" target="blank"><img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn"/></a>
 <a href="https://opencv.org/" target="blank"><img align="center" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
-<a href="https://python-visualization.github.io/folium/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a>
 <a href="https://geopandas.org/" target="blank"><img align="center" src="https://img.shields.io/badge/GeoPandas-139C5A?logo=geopandas&logoColor=fff&style=for-the-badge" alt="GeoPandas"/></a>
 <a href="https://networkx.org/en/" target="blank"><img align="center" src="https://img.shields.io/badge/networkx-%230072C6.svg?style=for-the-badge&logo=networkx&logoColor="white" alt="NetworkX"/></a>
 <a href="https://seaborn.pydata.org/" target=blank"><img align="center" src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=seaborn&logoColor="white" alt="Seaborn"/></a>
@@ -229,7 +251,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 <!-- <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
-
+<!-- <a href="https://python-visualization.github.io/folium/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a> -->
 
 <!-- R -->
 <p>
