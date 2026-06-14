@@ -152,7 +152,7 @@ Analytics Analysis
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
 | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![33%](https://geps.dev/progress/33) |
 | Statistics IV | Prandiano | 50h | ![60%](https://geps.dev/progress/60) |
-| Agents | PUC | 30h | ![73%](https://geps.dev/progress/73) |
+
 
 
 
@@ -174,6 +174,7 @@ Analytics Analysis
 | Estatística 2 | Prandiano | 66h |
 | Estatística 3 | Prandiano | 66h |
 | Estatística e Otimização para Ciência de Dados e Pesquisa Operacional | USP | 60h |
+| Agents | PUC | 30h | ![73%](https://geps.dev/progress/73) |
 -->
 
 
