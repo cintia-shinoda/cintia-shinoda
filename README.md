@@ -103,7 +103,7 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 <table>
   <tr>
     <td valign="center" style="width:40%">
-      <img src="https://github.com/cintia-shinoda/cintia-shinoda/blob/main/assets/images/orbital-collision-risk-cesium.mp4" alt="Demo" width="100%">
+      <img src="https://github.com/cintia-shinoda/cintia-shinoda/blob/main/assets/images/orbital-collision-risk-cesium.png" alt="Demo" width="100%">
     </td>
     <td valign="center" style="width:60%">
       <p>A multi-agent system that assesses satellite collision risk in real time.</p>
