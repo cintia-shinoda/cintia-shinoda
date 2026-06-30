@@ -70,12 +70,47 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
   </tr>
 </table>
 
+<br>
 
+
+### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
+
+<table>
+  <tr>
+    <td valign="center" style="width:40%">
+      <img src="https://github.com/cintia-shinoda/legislative-nlp-pipeline/blob/main/images/2.png?raw=true" alt="topic x sentiment Heatmap" width="100%">
+    </td>
+    <td valign="center" style="width:60%">
+      <p>NLP pipeline for processing and analyzing Brazilian legislative discourses. The pipeline includes data collection, preprocessing, sentiment analysis, topic modeling, text summarization, and data visualization.</p>
+
+  `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### [Astronomia RAG](https://github.com/cintia-shinoda/astronomia-rag)
 
+### [Orbital Collision-Risk Multi-Agent System](https://github.com/cintia-shinoda/orbital-collision-risk-multi-agent-system)
+
+<table>
+  <tr>
+    <td valign="center" style="width:40%">
+      <img src="" alt="Demo" width="100%">
+    </td>
+    <td valign="center" style="width:60%">
+      <p>A multi-agent system that assesses satellite collision risk in real time.</p>
+      <p>Given a NORAD catalog number, it screens the object against a live debris catalog, classifies each close approach with a model trained on real ESA conjunction data, measures the object's centrality in the conjunction network, and produces an operational briefing, visualized on an interactive 3D globe.</p>
+
+  `AI Agents` `MCP` `Google-ADK` `Gemini` `Geospatial` `Orbital-Mechanics` `Kessler Syndrome` `LightGBM` `NetworkX` `Python`
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+### [Astronomia RAG](https://github.com/cintia-shinoda/astronomia-rag)
 
 <table>
   <tr>
@@ -90,25 +125,9 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
   </tr>
 </table>
 
-
-
 <br>
 
-### [São Paulo's Legislative Discourses Sentiment Analysis](https://github.com/cintia-shinoda/legislative-nlp-pipeline)
 
-
-<table>
-  <tr>
-    <td valign="center" style="width:40%">
-      <img src="https://github.com/cintia-shinoda/legislative-nlp-pipeline/blob/main/images/2.png?raw=true" alt="topic x sentiment Heatmap" width="100%">
-    </td>
-    <td valign="center" style="width:60%">
-      <p>NLP pipeline for processing and analyzing Brazilian legislative discourses. The pipeline includes data collection, preprocessing, sentiment analysis, topic modeling, text summarization, and data visualization.</p>
-
-  `Python` `NLP` `Sentiment Analysis` `Topic Modeling` `Text Summarization` `Data Visualization` `Transformers` `Streamlit`
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -148,10 +167,10 @@ Analytics Analysis
 
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![97.71%](https://geps.dev/progress/97.71) |
+| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![100%](https://geps.dev/progress/100) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
-| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![33%](https://geps.dev/progress/33) |
-| Statistics IV | Prandiano | 50h | ![60%](https://geps.dev/progress/60) |
+| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![50%](https://geps.dev/progress/50) |
+| Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) |
 
 
 
