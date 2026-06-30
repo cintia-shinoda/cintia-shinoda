@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d1953fa0-e63c-4ef6-b608-79af121ce761
+
+
+
+https://github.com/user-attachments/assets/a56cef1d-7f20-456a-990a-7e71ca64cd9f
+
 <h2 align="center">Hey! I'm Cintia I. Shinoda</h2>
 
 <!-- <p align="center">Python | SQL | Software Development | Data Analysis | Data Science | AI Engineering</p> -->
@@ -91,12 +99,19 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 <br>
 
 
+
+
+
+
+
+
+
 ### [Orbital Collision-Risk Multi-Agent System](https://github.com/cintia-shinoda/orbital-collision-risk-multi-agent-system)
 
 <table>
   <tr>
     <td valign="center" style="width:40%">
-      <img src="" alt="Demo" width="100%">
+      <img src="https://github.com/user-attachments/assets/2249e11d-2245-4e9a-8674-699c124fdf8c" alt="Cesium Demo" width="100%">
     </td>
     <td valign="center" style="width:60%">
       <p>A multi-agent system that assesses satellite collision risk in real time.</p>
