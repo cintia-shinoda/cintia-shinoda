@@ -175,23 +175,24 @@ Analytics Analysis
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![100%](https://geps.dev/progress/100) |
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![40%](https://geps.dev/progress/40) |
-| [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) | UTFPR | 360h | ![50%](https://geps.dev/progress/50) |
-<!-- | Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) | -->
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![60%](https://geps.dev/progress/60) |
+
+<!-- | Agent Engineering Nanodegree |  |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Inteligência Artificial Generativa Aplicada |  |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) |  | 360h | ![50%](https://geps.dev/progress/50) | -->
 
 
-
-
-<!-- 
 
 <!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
+<!-- | LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
+<!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level K: ![43%](https://geps.dev/progress/43)</li><li>Overall progress: ![87%](https://geps.dev/progress/87)</li></ul> | -->
+
+
+
+<!-- | Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) | -->
 <!-- | Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) | -->
 
-<!-- | [Japanese](https://github.com/cintia-shinoda/nihongo) |  |  | <ul><li>Level K: ![0%](https://geps.dev/progress/0)</li><li>Overall progress: ![87%](https://geps.dev/progress/87)</li></ul> | -->
-
-
-<!-- | LLM Bootcamp |  |  | ![0%](https://geps.dev/progress/0) |  -->
 
 
 <!-- 
