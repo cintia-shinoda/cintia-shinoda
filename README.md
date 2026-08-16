@@ -1,31 +1,32 @@
-<h2 align="center">Hey! I'm Cintia I. Shinoda</h2>
+<h1 align="center">Hey! I'm Cintia I. Shinoda</h1>
 
-<!-- <p align="center">Python | SQL | Software Development | Data Analysis | Data Science | AI Engineering</p> -->
-
-<p align="center">Data Scientist · Database Dev · Machine Learning</p>
+<p align="center">Data Scientist · Database Developer · AI Engineer</p>
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-<a href="https://huggingface.co/cintia-shinoda" 
-target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
-<a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/cintiashinoda" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+    <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
+    <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
+    <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
 
-
-<!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
 
-
 <!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
+
 <!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
 
 
+<!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
+
+
+
 <!-- 
-<a href="https://skillsprofile.skillbuilder.aws/user/cintia" target="blank"><img align="center" src="https://img.shields.io/badge/AWS Skill%20Builder-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a> 
+<a href="https://skillsprofile.skillbuilder.aws/user/cintia" target="blank"><img align="center" src="https://img.shields.io/badge/AWS Skill%20Builder-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+
 <a href="https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Skills-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Skills"/></a>
+
 <a href="https://learn.microsoft.com/pt-br/users/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/></a>
 
 
@@ -38,7 +39,7 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 <a href="https://www.credly.com/users/cintia-shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=for-the-badge" alt=""/></a>
 
  -->
-
+  </p>
 
 <br>
 
@@ -91,13 +92,6 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 <br>
 
 
-
-
-
-
-
-
-
 ### [Orbital Collision-Risk Multi-Agent System](https://github.com/cintia-shinoda/orbital-collision-risk-multi-agent-system)
 
 <table>
@@ -134,13 +128,12 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 
 <br>
 
-
-
 ---
 
 
+
 ## Professional Background
-### E-VAL Tecnologia - São Paulo - São Paulo - Brazil
+### `Database Developer` @ *E-VAL Tecnologia - São Paulo - São Paulo - Brazil*
   - Database of a Digital Signature Management System for Hospital Israelita Albert Einstein 
   
   `SQL` `SQL Server` `Database Modeling` `Data Analysis`
@@ -153,19 +146,24 @@ target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20
 
 <br>
 
-### HandsOn\.TV - Mountain View - California - USA
-Analytics Analysis 
+### `Data Analyst` @ *HandsOn\.TV - Mountain View - California - USA*
 
 `Analytics` `Data Analysis` `Excel` `Data Visualization`
 
+<br>
+
 ---
+
+
 
 ## Education:
 
-- Software Development, B.Tech
-- Artificial Intelligence and Machine Learning, Specialization
-- [Applied Mathematical Methods, Specialization](https://github.com/cintia-shinoda/utfpr_emma)
-- Information Technology, B\.Sc\. (with emphasis in Data Analysis) - interim degree of [Data Science B\.Sc\.](https://github.com/cintia-shinoda/univesp)
+- Software Development, *B\.Tech*
+- Artificial Intelligence and Machine Learning, *Specialization*
+- [Applied Mathematical Methods, *Specialization*](https://github.com/cintia-shinoda/utfpr_emma)
+- Information Technology (with emphasis in Data Analysis), *B\.Sc\.*
+- [Data Science, *B\.Sc\.*](https://github.com/cintia-shinoda/univesp)
+
 
 
 ## Ongoing:
@@ -174,10 +172,9 @@ Analytics Analysis
 
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Data Science Bachelor's Degree](https://github.com/cintia-shinoda/univesp) | UNIVESP | 3500h | ![100%](https://geps.dev/progress/100) |
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![60%](https://geps.dev/progress/60) |
 
-<!-- | Agent Engineering Nanodegree |  |  | ![0%](https://geps.dev/progress/0) | -->
+<!-- | Agent Engineering Nanodegree |  |  | ![17%](https://geps.dev/progress/17) | -->
 <!-- | Inteligência Artificial Generativa Aplicada |  |  | ![0%](https://geps.dev/progress/0) | -->
 <!-- | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) |  | 360h | ![50%](https://geps.dev/progress/50) | -->
 
@@ -190,7 +187,6 @@ Analytics Analysis
 
 
 
-<!-- | Statistics IV | Prandiano | 50h | ![90%](https://geps.dev/progress/90) | -->
 <!-- | Visão Computacional |  |  | ![0%](https://geps.dev/progress/0) | -->
 
 
@@ -200,6 +196,7 @@ Analytics Analysis
 | Estatística 1 | Prandiano | 72h |
 | Estatística 2 | Prandiano | 66h |
 | Estatística 3 | Prandiano | 66h |
+| Estatística 4 | Prandiano | 50h |
 | Estatística e Otimização para Ciência de Dados e Pesquisa Operacional | USP | 60h |
 | Agents | PUC | 30h | ![73%](https://geps.dev/progress/73) |
 -->
