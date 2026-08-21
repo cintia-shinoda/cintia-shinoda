@@ -9,6 +9,7 @@
     <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face"/></a>
     <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://cintia-shinoda.github.io/CV-Cintia-Shinoda-AI-ML.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
     <a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
 
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
