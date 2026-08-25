@@ -10,6 +10,7 @@
     <a href="https://www.kaggle.com/shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://www.instagram.com/cintia.shinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://cintia-shinoda.github.io/CV-Cintia-Shinoda-AI-ML.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+    <a href="mailto:cintia.builds@gmail.com" target="blank"><img align="center" src="![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email"/></a>
     <a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
 
 <!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
@@ -174,11 +175,13 @@
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
 | [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![60%](https://geps.dev/progress/60) |
+| Agent Engineering Nanodegree |  |  | ![30%](https://geps.dev/progress/30) |
 
-<!-- | Agent Engineering Nanodegree |  |  | ![17%](https://geps.dev/progress/17) | -->
+
+
 <!-- | Inteligência Artificial Generativa Aplicada |  |  | ![0%](https://geps.dev/progress/0) | -->
-<!-- | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) |  | 360h | ![50%](https://geps.dev/progress/50) | -->
 
+<!-- | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) |  | 360h | ![50%](https://geps.dev/progress/50) | -->
 
 
 <!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
