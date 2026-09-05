@@ -59,7 +59,17 @@
       <img src="https://github.com/cintia-shinoda/public-transit-graph-theory/blob/main/outputs/mapa_paradas_modal_sp_rmsp.png?raw=true" alt="Map of the top 10 critical nodes according to degree, betweenness and closeness centrality metrics" width="100%">
     </td>
     <td valign="center" style="width:60%">
-      <p>Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency.</p>
+<div align="center">
+
+  [![Selected Thesis](https://img.shields.io/badge/UNIVESP-Selected%20Thesis-success)](https://apps.univesp.br/tcc-pi/tcc/)
+
+  > Selected for UNIVESP's curated collection of outstanding undergraduate theses.
+
+</div>
+
+
+
+  <p>Analysis of São Paulo's public transit network vulnerability and resilience using Graph Theory and Network Science on SPTrans GTFS data. 22K+ nodes, 29K+ edges. Identifying critical bottlenecks and proposing strategies for improving the system's robustness and efficiency.</p>
 
 `Python` `NetworkX` `Geopandas` `SciPy` `cKDTree` `pyarrow` `GTFS` `Graph Theory` `Network Science`
 
@@ -174,14 +184,18 @@
 
 |  | School / Institution | Workload | Progress |
 |--------|--------------------|----------|----------|
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![60%](https://geps.dev/progress/60) |
-| Agent Engineering Nanodegree |  |  | ![30%](https://geps.dev/progress/30) |
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![70%](https://geps.dev/progress/70) |
+| Advanced Python Specialization |  | 360h | ![67%](https://geps.dev/progress/67) |
+
+
+
+
 
 
 
 <!-- | Inteligência Artificial Generativa Aplicada |  |  | ![0%](https://geps.dev/progress/0) | -->
 
-<!-- | [Advanced Python Specialization](https://github.com/cintia-shinoda/utfpr_eapy) |  | 360h | ![50%](https://geps.dev/progress/50) | -->
+
 
 
 <!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
@@ -232,8 +246,8 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 | Certification | School/Institution |
 |:--------|:--------------------|
-| TOEFL (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
 | JLPT N5 (Japanese-Language Proficiency Test - Level N5) | Japan Foundation and Japan Educational Exchanges and Services |
+| TOEFL (Test of English as a Foreign Language) | ETS (Educational Testing Service) |
 
 </div>
 
