@@ -12,35 +12,6 @@
     <a href="https://cintia-shinoda.github.io/CV-Cintia-Shinoda-AI-ML.pdf" target="blank"><img align="center" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
     <a href="mailto:cintia.builds@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Email"/></a>
     <a href="https://cintia-shinoda.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-095858?style=for-the-badge&logo=portfolio&logoColor=white)" alt="Portfolio"/></a>
-
-<!-- <a href="https://substack.com/@cintiashinoda"target="blank"><img align="center" src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge" alt="Substack"/></a> -->
-
-<!-- <a href="https://www.hackerrank.com/cintia_shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a> -->
-
-<!-- <a href="https://medium.com/@cintia.shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> -->
-
-
-<!-- <a href="https://www.duolingo.com/profile/cintia.shinoda" target=blank><img align="center" src="https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=for-the-badge" alt="Duolingo"/></a> -->
-
-
-
-<!-- 
-<a href="https://skillsprofile.skillbuilder.aws/user/cintia" target="blank"><img align="center" src="https://img.shields.io/badge/AWS Skill%20Builder-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-
-<a href="https://www.skills.google/public_profiles/ca7f30c5-a8af-44d9-9ccb-88be64c86e10" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Skills-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Skills"/></a>
-
-<a href="https://learn.microsoft.com/pt-br/users/cintiashinoda/" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"/></a>
-
-
-<a href="" target="blank"><img align="center" src="" alt="IBM SkillsBuild"/></a>
-<a href="" target="blank"><img align="center" src="" alt="databricks"/></a>
-<a href="" target="blank"><img align="center" src="" alt="Nvidia"/></a>
-<a href="" target="blank"><img align="center" src="" alt=""/></a>
-
-
-<a href="https://www.credly.com/users/cintia-shinoda" target="blank"><img align="center" src="https://img.shields.io/badge/Credly-FF6B00?logo=credly&logoColor=fff&style=for-the-badge" alt=""/></a>
-
- -->
   </p>
 
 <br>
@@ -182,20 +153,16 @@
 
 <div align="center" width="90%">
 
-|  | School / Institution | Workload | Progress |
-|--------|--------------------|----------|----------|
-| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | UFV | 420h | ![70%](https://geps.dev/progress/70) |
-| Advanced Python Specialization |  | 360h | ![67%](https://geps.dev/progress/67) |
+|        | Workload | Progress |
+|-------------------|----------|----------|
+| [Robotics Specialization](https://github.com/cintia-shinoda/ufv_robotica) | 420h | ![70%](https://geps.dev/progress/70) |
+| Agent Engineer Nanodegree |  | ![64%](https://geps.dev/progress/64) |
 
+<!-- | Advanced Python Specialization | 360h | ![67%](https://geps.dev/progress/67) | -->
 
+<!-- | Inteligência Artificial Generativa Aplicada |  | ![0%](https://geps.dev/progress/0) | -->
 
-
-
-
-
-<!-- | Inteligência Artificial Generativa Aplicada |  |  | ![0%](https://geps.dev/progress/0) | -->
-
-
+<!-- | Generative AI Engineer |  | ![0%](https://geps.dev/progress/0) | -->
 
 
 <!-- | AI Engineering |  | 77h | <ul><li>![2%](https://geps.dev/progress/2)</li><li>![0%](https://geps.dev/progress/0)</li></ul> | -->
@@ -261,6 +228,12 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
   <td valign="center" style="width:75%">
     <h2 align="left">Tech Stack:</h2>
 
+
+<p>
+<a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
+<a href="https://huggingface.co/docs/transformers/en/index" target="blank"><img align="center" src="https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a>
+</p>
+
 <!-- Databases -->
 <p>
 <a href="https://www.microsoft.com/en-us/sql-server" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server"/></a>
@@ -289,12 +262,13 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://seaborn.pydata.org/" target=blank"><img align="center" src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=seaborn&logoColor="white" alt="Seaborn"/></a>
 <a href="https://www.nltk.org/" target="blank"><img align="center" src="https://img.shields.io/badge/NLTK-%232E6295.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/></a>
 <a href="https://spacy.io/" target="blank"><img align="center" src="https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/></a>
-<a href="https://huggingface.co/docs/transformers/en/index" target="blank"><img align="center" src="https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/></a>
 
 <!-- <a href="https://fastapi.tiangolo.com/" target="blank"><img align="center" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/></a> -->
 <!-- <a href="https://www.djangoproject.com/"><img align="center" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a> -->
 <!-- <a href="https://pytorch.org/" target="blank"><img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge" alt="PyTorch"/></a> -->
 <!-- <a href="https://python-visualization.github.io/folium/latest/" target="blank"><img align="center" src="https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=for-the-badge" alt="Folium"/></a> -->
+
+
 
 <!-- R -->
 <p>
@@ -320,8 +294,11 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 
 
 <!-- Microelectronics / Robotics -->
+
 <!-- <a href="https://www.arduino.cc/" target="blank"><img align="center" src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"/></a> -->
+<!-- <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/M5Stack-0077C8?logo=m5stack&logoColor=fff&style=for-the-badge" alt="M5Stack"/></a> -->
 <!-- <a href="https://www.ros.org/" target="blank"><img align="center" src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=fff&style=for-the-badge" alt="ROS"/></a> -->
+
 
 
 
@@ -334,10 +311,11 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://www.anthropic.com/claude" target="blank"><img align="center" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white&style=for-the-badge" alt="Claude"/></a>
 <a href="https://notebooklm.google.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/NotebookLM-000?logo=notebooklm&logoColor=fff&style=for-the-badge" alt="NotebookLM"/></a> -->
 
+
 <!--
 <p>
 <a href="https://github.com/features/copilot" target="blank"><img align="center" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/></a>
-<a href="https://ollama.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ollama-000?logo=ollama&logoColor=fff&style=for-the-badge" alt="Ollama"/></a>
+
 <a href="https://huggingface.co/cintia-shinoda" target="_blank"><img align="center" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face"/></a> -->
 <!-- <a href="https://www.langchain.com/" target="blank"><img align="center" src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a> -->
 
@@ -448,6 +426,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
 <a href="https://www.apple.com/br/macbook-pro/" target="blank"><img align="center" src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white" alt="macbook-pro"/></a>
 <a href="https://www.nikon.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Nikon-FFE100.svg?style=for-the-badge&logo=Nikon&logoColor=black" alt="Nikon"/></a> -->
 <!-- <a href="https://www.dji.com" target="blank"><img align="center" src="https://img.shields.io/badge/DJI-000000.svg?style=for-the-badge&logo=DJI&logoColor=white" alt="DJI"/></a> -->
+
 
   </td>
 
@@ -577,6 +556,7 @@ Python, R, and SQL for Software Development, Data Analysis, Modeling, and Automa
     </td>
   </tr>
 </table>
+
 
 <!-- ![Cintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=cintia-shinoda&theme=default&show_icons=true)  -->
 
